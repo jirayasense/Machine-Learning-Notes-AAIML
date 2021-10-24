@@ -1,0 +1,32 @@
+=> Linear algebra is all about studying shapes ({Rectangle, Circle, Sphere, Cuboid, Line, Plane, etc...})
+
+=> radians is most widely used than degree
+
+Mathematcis Fact :
+------
+ -> Simplest way to represent the rectangle is by a Diagonal Coordinates 
+
+ -> Root finding Problem (finding root of equation where f(x) = 0)
+
+ -> Rate of Convergence -> How fast we're going towards x
+
+ -> Quantifying something (measuring how good or bad it is)
+
+ -> Euc-dist gets affected by scale
+
+ -> As Variance has slight upper edge of impact when compare to Bias As dimen incr, The Generalization 
+    Error term have square for bias term
+
+
+Algorithm :-
+------
+ -> So as far as ML is concern, We'll Consider Space Complexity at evaluation time as :
+      total amount of space needed to evaluate at run time 
+
+ -> To be sure about the algorithm to work on future data points, it must be tested on `Unseen data`
+
+ -> If D_train & D_test have considerably diff distribution, then your model will fail on Test-Set
+    (this can be possible when data changes over time)
+    In such case CV-err = low & Test-Err = High
+
+    So Distribution of your data plays pivotal role for your model to infer predictions in future

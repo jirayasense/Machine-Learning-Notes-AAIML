@@ -1,0 +1,18 @@
+terms
+
+Accuracy
+Confusion Matrix
+Principal Diagonal
+Off-Matrix Diagonal
+
+Precision
+Recall
+
+ROC AUC
+Ranndom Model
+Log Loss
+
+Sum of Squares
+R-Squared
+
+Distribution of Error

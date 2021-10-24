@@ -1,0 +1,55 @@
+Pandas 
+
+*-> 
+   xlrd, a package use to read xls file (i.e excel file)
+   openpyxl, a package to store data into excel file
+
+-> DataFrame
+   Series
+
+   You can consider Series as numpy array-vector & do mostly all sorts of stuff on it likewise
+
+   => Eg df.col_name == df.col_name.max()   // gives you the Mask i.e boolean array
+
+
+=> row number is default indexing
+   If you not provide index, then row number is itself index (i.e by default index)
+
+
+* Indexing (Numerical)  <-** (Mimp)
+
+=> iloc - by row number
+   loc  - by index number
+
+   loc[:3]   // slicing
+
+* Custom Index :
+  -----
+   -> You can give custom `index` as parameter to pd.DataFrame([1,2,2], index=[0,1,2])
+
+-----
+
+* to_csv()
+  ---
+   -> also stores index as first column inside csv
+
+* groupby()
+  ----
+   -> indices are not row number
+   -> indices also shift in relative/according groups  (i.e indices remains intact)
+        (row num starts with 1 for each new dataframe)
+
+* pd.concat()
+
+* pd.merge( , on="", type="")   // equi to join() in sql 
+
+
+------
+EXTRA
+
+ df.sort_values()   //sort by column name
+   .drop_duplicates()
+
+
+
+

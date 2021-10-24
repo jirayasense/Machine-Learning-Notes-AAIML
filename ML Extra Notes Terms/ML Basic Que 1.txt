@@ -1,0 +1,4 @@
+Q1) Why to perform Col-Standardization before Model Preparation in KNN 
+
+ -> Since Euc-Dist gets affected by Scale, Perform the Col-Standardization before performing KNN
+    (As KNN uses distance underhood)

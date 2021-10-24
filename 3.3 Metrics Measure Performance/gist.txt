@@ -1,0 +1,11 @@
+gist
+
+Metrics Techniques
+
+=> AUC uses ordering of scores
+
+=> Log Loss uses the probability of the scores
+
+=> Distribution of Error (in case of Linear Regression)
+    \
+     Can use MAD

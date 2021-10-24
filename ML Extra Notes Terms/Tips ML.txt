@@ -1,0 +1,33 @@
+Tips ML
+
+=> Time & Space Complexity matters most when comes to Prodcutionization of Code
+
+=> If D_train & D_test have considerably diff distribution, then your model will fail on Test-Set
+    (this can be possible when data changes over time)
+    In such case CV-err = low & Test-Err = High
+
+    So Distribution of your data plays pivotal role for your model to infer predictions in future
+
+=> Eucledian distance gets impacted/affected by Scale
+
+=> BOW & one-hot encoding are relative in terms of idea
+
+=> Outliers does not only comply with nearness or proximty but they also depends on density in locality as well 
+
+=> Missing val can also be a source of information
+   
+   (Curse of dimen)
+=> Cos-Sim is lesser impacted compare to Euc-dist when dimen incr, So Text-Processing uses Cos-Sim
+
+=> In KNN, As K incr, Bias incr slightly & 
+               		  Varince decr drastically
+
+=> If model return probability scores than Accuracy may not be better metric
+
+=> ROC & AUC are only used for binary classification
+=> Log Loss is powerful metrics When probability socre is given
+
+=> R-Squared is metric that helps us to compare our model with simple mean model
+    ie if our model is better than simple mean model  (R-Sq > 0)
+                       equal to                       (R-Sq = 0)
+                       worse than                     (R-Sq < 0)

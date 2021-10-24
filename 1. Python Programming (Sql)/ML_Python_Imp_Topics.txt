@@ -1,0 +1,10 @@
+* numpy :
+  -----
+   broadcasting, masking,
+   axis-concept
+   View-concept  <--**
+   argsort()
+   meshgrid()
+
+   stats -> cumsum(), mean(), meadian()
+   

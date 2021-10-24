@@ -1,0 +1,10 @@
+useful Packages
+
+xlrd -> for opening excel file (i.e xls or xlsx) in pandas  // pip3 install xlrd
+openpyxl -> to store data in excel file
+
+wget -> download from url
+
+bs4.BeautifulSoup -> 
+
+tqdm  -> fpr printing status bar

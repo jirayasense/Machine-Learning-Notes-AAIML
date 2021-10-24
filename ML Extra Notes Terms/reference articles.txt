@@ -1,0 +1,4 @@
+reference articles
+
+[one hot encoding]
+https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/

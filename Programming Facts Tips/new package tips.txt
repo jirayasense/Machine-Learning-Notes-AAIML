@@ -1,0 +1,1 @@
+-> By default, wget downloads files in the current working directory where it is run.

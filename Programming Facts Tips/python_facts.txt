@@ -1,0 +1,7 @@
+[int internal way] https://rushter.com/blog/python-integer-implementation/
+
+
+-> All int are represented as bignum underhood (via C)
+
+-> random.random() is uniformly distributed random variables (in range 0 -> 1)
+

@@ -1,0 +1,9 @@
+* Matplotlib :
+  --------
+
+  -> color, shape, linewidth
+
+
+  => With subplots or sub figures you can only work with 1 figure at a time.
+
+  plt.setp()   // set parameter for individual lines

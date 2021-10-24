@@ -1,0 +1,21 @@
+Tips 1
+
+-> Always look at the plots (& Observe it & identify something)
+   Always read the scale of a Plot
+
+-> To plot any func -> just google -> `plot f(x)`   // replace whatever function with f(x)
+
+-> To find lower & upper bound of interval in array (increasing order) :- use numpy.percentile()
+     let say we want {p%} of interval
+
+     lower bound = ((1 - p) / 2) * 100  percentile 
+     upper bound = p   percentile
+
+
+-> Norm of Xi vector square = Xi.transpose * Xi
+
+-> Never make conclusion from Junk (Random data)
+
+-> Use common sense to clean data
+
+=> Given any problem if you can convert it to Vector then we can leverage power of Linear Algebra

@@ -1,0 +1,6 @@
+sklearn scipy
+
+sklearn
+  
+  - CountVectorizer()   // For BOW technique text -> vector of d-dimen d = words_cnt
+  - TfidfVectorizer()   // Tfidf

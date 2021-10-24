@@ -1,0 +1,58 @@
+Mathematics concept terms
+
+-> Feynman method of integration
+
+-> Rectangular method
+   Trapezoidal Method  (both to find AUC)
+
+-> Equations :- Line, Circle
+
+-> Monte Carlo Approaches (Random number)
+
+
+----------------------
+
+
+=> We've seen That Area of Shape We can utilise 2 methods :-
+   
+    - 1) AUC via Rectangular or Trapezoidal
+      2) Monte Carlo method (via Randomization & Sampling)
+      3) Approximation using Polygon
+
+______________________________________
+
+---
+Stats
+---
+-> Mean, Median, Mode, Standard Deviation, Variance,
+   Percentile, Quartile
+   Median Absoulte Deviation (MAD)
+   Inter Quantile Range (IQR)
+
+   PDF, CDF, PMF
+
+   Gaussian Distribution Curve  | Other Distributions as well
+   Log Log Plot, QQ Plot
+
+
+-> Slope, Intercept
+   Intercept form of eqn of Plane
+   General form of eqn of plane
+
+   Monotonically Decreasing/Increasing
+
+   Test Statistic  // Experiment Statistics
+   P-val
+   ReSampling
+
+-> Deterministic algorithm
+   Stochastic/Probabilistic Algorithm
+
+-> Sparse Matrix | Vectors
+-> distance vs norm
+-> Consine Similarity & Distance
+
+   polarity
+   low-latency 
+
+   Unit Normal Vector (i.e perpendicular vector)

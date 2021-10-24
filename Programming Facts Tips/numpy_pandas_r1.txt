@@ -1,0 +1,9 @@
+pd.head()  
+
+pandas :
+   
+   drop_duplicates()
+   sort_values()
+
+   map()
+   value_counts()  //freq count for values in column/series

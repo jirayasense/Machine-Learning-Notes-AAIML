@@ -1,0 +1,3 @@
+ML terms 
+
+- one hot encoding
