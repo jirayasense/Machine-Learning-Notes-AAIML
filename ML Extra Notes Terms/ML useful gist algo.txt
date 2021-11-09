@@ -1,0 +1,8 @@
+-> Loss term
+   Regularizer term
+
+   Approximation Func for Loss-Term
+
+   Optimization Problem
+   Constrained Optimization Problem / Langrange Multiplier
+   

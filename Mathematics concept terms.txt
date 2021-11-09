@@ -9,15 +9,23 @@ Mathematics concept terms
 
 -> Monte Carlo Approaches (Random number)
 
+-> Plane :- Intercept & Normal to Plane
 
 ----------------------
-
 
 => We've seen That Area of Shape We can utilise 2 methods :-
    
     - 1) AUC via Rectangular or Trapezoidal
       2) Monte Carlo method (via Randomization & Sampling)
       3) Approximation using Polygon
+
+=> Type of Function :
+     
+     Monotonic Func     // Optimization Problem
+     Sigmoid Func       // Log-Reg
+     Logarithmic Func   // General
+     Exponential Func   // General (inverse of Log-Func)
+     Power-Law          // Pareto distb
 
 ______________________________________
 
@@ -34,10 +42,10 @@ Stats
    Gaussian Distribution Curve  | Other Distributions as well
    Log Log Plot, QQ Plot
 
-
 -> Slope, Intercept
    Intercept form of eqn of Plane
    General form of eqn of plane
+   Normal of a Plane
 
    Monotonically Decreasing/Increasing
 
@@ -56,3 +64,33 @@ Stats
    low-latency 
 
    Unit Normal Vector (i.e perpendicular vector)
+
+---
+Probability
+---
+Independent & Mutually Exclusive Events
+Bayes Theorem
+
+Joint Probability Distribution
+Simple Independence
+Conditional Independence
+
+--- 
+Plane
+---
+ -> Normal & Intercept
+ -> distance of pt from a plane
+
+
+-> Signed Distances & Projection
+-> Optimization Problem
+-> Monotonic func
+
+---- 
+Optimization problem
+----
+ -> Slope, Derivative
+ -> Gradient Descent
+ -> Objective Func
+ -> Lagrange Multiplier
+

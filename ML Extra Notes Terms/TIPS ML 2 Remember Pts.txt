@@ -1,0 +1,31 @@
+TIPS ML Remember Pts.txt
+
+-------------------------
+
+Imp Concepts :- Projection / Distance / Dot Product / Angular Similarity
+
+				Differentiation / slope / tangent / Vector Calculus / Partial Derivative / Gradient Descent/ 
+				Objective function
+				
+------------------------
+
+-> Feature Collinearity Test :- Use Pertubation Technique
+
+=> As Dimen is very high, data is linearly seperable (probability incr)
+
+-> If you want to transform your features 
+    then you cann use several mathematical intutions
+
+       1) square   // to get positive
+       2) Log 
+       3) Exponent
+       4) Sigmoid
+
+=> there is no problem of imbalanced data in linear regression as there are no class labels.
+
+=> One of the most imp algorithm for Optimization in ML is Stochastic Gradient Descent (SGD)
+
+-> Regularization can be thought of as an imposing an equality constraint & solving that via 
+   Langrangian Multipliers
+
+=> The sparsity do not depends on the loss but on regularizer

@@ -21,3 +21,5 @@ terms
   Sparse :- not-uniform/random spread of data in the sparse dimension
 
 - Principal Diagonal & Off-Matrix Diagonal
+
+- Joint Probability model 

@@ -1,0 +1,36 @@
+* Naive bayes - Weather { Sunny, Rain, } 
+              - Spam  ( Text )
+
+
+* Linear Reg - Height, or Weight
+
+	
+------------------
+
+-> Geometrically Interpretation means :
+      \
+       argmin() or argmax()
+       &
+       DotProduct & Distance Observation
+
+     - involves the hyperparam :- C  (with Loss Func)
+
+
+-> Loss-Minima Interpretation means :
+     \
+      Plot graph between 2 
+          1) Error & Loss
+          2) signn_dist & Probability
+
+    - involves the hyperparam :- lma  (with Regularizer term)
+
+
+-> Best Example of Probabilistic Interpretation is Gaussian Naive Bayes
+
+
+
+      
+
+
+
+ 

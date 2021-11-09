@@ -19,3 +19,12 @@ Quantifying something (measuring how good or bad it is)
 
 Randomized Algorithm (not always give right ans but most probably give correct ans)
 
+Numerical Underflow
+
+Collinnear Features
+
+Objective Func in Optimization
+
+Langrange Multiplier  
+Eigen Val & Eigen Vec
+

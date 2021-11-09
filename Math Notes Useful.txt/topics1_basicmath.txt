@@ -1,0 +1,21 @@
+topics 
+
+- distance between 2 points
+- Orthogonal Circles
+
+- Two Circle Intersection
+- AUC & Integration   (using trapezoid | Monte Carlo)
+- Monte Carlo Approaches
+- Approximation using Polygon
+
+-> Area of Circle using Trapezoid Rule
+
+- Concentric Circles  (circle within circle)
+
+- Principal Diagonal & Off-Matrix Diagonal
+
+- Differentiable & Continuous
+
+- Monotonic Func
+
+- Linear & Quadratic Eqn

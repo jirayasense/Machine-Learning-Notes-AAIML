@@ -2,3 +2,14 @@ Q1) Why to perform Col-Standardization before Model Preparation in KNN
 
  -> Since Euc-Dist gets affected by Scale, Perform the Col-Standardization before performing KNN
     (As KNN uses distance underhood)
+
+    Diff Scale have diff undue impact 
+    	Eg Tortoise & Rabbit 
+
+
+Q2) Why Sigmoid Func in Log-Reg ??
+
+ -> As Sigma Func is easy to differentiate 
+                \
+                 -> { tappering-linear behaviour, probabilistic interpretation }
+

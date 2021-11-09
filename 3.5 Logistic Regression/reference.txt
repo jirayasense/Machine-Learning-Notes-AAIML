@@ -1,0 +1,11 @@
+reference.txt
+
+[Probabilistic Interpretation]
+https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf
+
+[Genearlized Linear Model GLM]
+http://cs229.stanford.edu/notes2020spring/cs229-notes1.pdf
+
+
+[Imbalanced Dataset in Logistic Regression]
+https://www.youtube.com/watch?v=l8Dge0z1Zks

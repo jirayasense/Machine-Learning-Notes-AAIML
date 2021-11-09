@@ -2,6 +2,10 @@
 
 => radians is most widely used than degree
 
+ML = Art + Science
+     Art = Feature Engineering/Trasnf, Exploration, EDA  (Creative)
+     Science = geometry, probability, Algorithms
+
 Mathematcis Fact :
 ------
  -> Simplest way to represent the rectangle is by a Diagonal Coordinates 
@@ -17,6 +21,14 @@ Mathematcis Fact :
  -> As Variance has slight upper edge of impact when compare to Bias As dimen incr, The Generalization 
     Error term have square for bias term
 
+ -> Plane is represennted by Normal & Intercept
+
+ => Every Model makes some assumptions
+
+ -> Working Model is imp than Best Model
+
+ -> To solve Real-World Problem more robustly, deal with Outliers very efficently
+
 
 Algorithm :-
 ------
@@ -30,3 +42,15 @@ Algorithm :-
     In such case CV-err = low & Test-Err = High
 
     So Distribution of your data plays pivotal role for your model to infer predictions in future
+
+-> The whole Machine Learning is abt Underfit vs Overfit 
+   The diff between best model & worst model is just about Underfit & OverFit
+
+-> We are using Loss Func as Approximation to Optimization problem as
+   Often times The Optimization Func is not differentiable & thus nonn-continuous
+
+-> The Deep Learninng is tryimg to automate some part of Feature Engineering
+
+-> The whole of ML is glorified Feature Engineering (with sime simple Algo)
+
+=> One of the most imp algorithm for Optimization in ML is Stochastic Gradient Descent (SGD)

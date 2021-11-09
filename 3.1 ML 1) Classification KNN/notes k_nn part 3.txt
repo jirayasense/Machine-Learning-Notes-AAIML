@@ -10,6 +10,9 @@ Topics-Tips-Terms :
 
 => Probablistic Output gives you certainty mathematically inn case of KNN
 
+=> Pioneer of LSH is orthogonal Projection & line eqn
+              K-D tree is cos-similarity
+
 -----------------
 
 - KD tree : approach via BST

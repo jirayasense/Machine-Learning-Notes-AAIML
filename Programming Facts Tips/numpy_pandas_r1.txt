@@ -1,3 +1,6 @@
+numpy :
+  count_nonzero()
+
 pd.head()  
 
 pandas :

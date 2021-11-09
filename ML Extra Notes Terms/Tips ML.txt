@@ -14,7 +14,7 @@ Tips ML
 
 => Outliers does not only comply with nearness or proximty but they also depends on density in locality as well 
 
-=> Missing val can also be a source of information
+=> Missing val can also be a source of information (NAN)
    
    (Curse of dimen)
 => Cos-Sim is lesser impacted compare to Euc-dist when dimen incr, So Text-Processing uses Cos-Sim
@@ -31,3 +31,24 @@ Tips ML
     ie if our model is better than simple mean model  (R-Sq > 0)
                        equal to                       (R-Sq = 0)
                        worse than                     (R-Sq < 0)
+
+=> Whenever you have categorical features, You can consider missing val as one other category ie (NAN)
+
+-> For simiplicity you can assume plane passes through an origin
+
+=> L1-regularized is prefer over L2-Regualrized as it provides more sparsity
+   hence convergence faster
+
+=> In lot of optmization problem if you cant solve it then approximate it
+   
+   (Logistic Regression)
+=> Thus if feature vectors are collinear or multi-collinear 
+
+=> Always check for Multi-Collinearity before going for Feature-Importance
+      then your weight vectors may change arbitarily
+
+=> The most imp aspect of Machine Learning is Feature Engineering
+
+=> As you put more features ie #features, The chances of Overfitting also increases
+
+=> Sparsity depends on Weights & biases & not on loss-term

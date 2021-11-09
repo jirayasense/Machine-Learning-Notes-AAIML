@@ -1,0 +1,66 @@
+Logistic Regression & Linear Regression :-
+---------------------------------------
+
+=> always remember that Dot-Product is used to find the Distances or Projections
+   or directions related Stuff
+
+Line/Plane  - Linearly Surfaces
+Circle/Parabola - Quadratic Surfaces
+
+=> For a given plane there is always Normal Perpendicular to plane
+   & 
+   Plane can be represented by its Normal & intercept term
+
+TIP :- For Simplification You can assume plane passes through an Origin so b = 0
+
+=> To solve the optimization problem you need function to be differentiable
+   & 
+   Monotonic func
+
+
+* Optimization Rule :
+  -----------
+	In Optimization :
+	  The x that minimizes f(x) is the same that maximizes -f(x)
+
+    argmax( f(x) ) = argmin ( 1 / f(x))
+
+
+* Collinear Features :
+  -------------
+   representing 1 feature as a linear combination of another feature
+
+
+* f(Xi) for both :
+  ----------------
+  In case of Logistic Regression
+    We have correct-incorrect which is represented by Zi = y*f(xi)
+
+     -> f(Xi) = Sigmoid()  // custom function ie sigmoid
+
+  In case of Linear Regression
+    We have error which is y - y`
+
+     -> f(xi) = W^T*Xi + w0  // Hyper-Plane Eqn
+
+ 
+-> Note : Unit vector & Basis Vector are different
+
+__________
+
+* Optimization Problem :
+  ------------
+   - maximization or minimization
+   - Gradient Descent or SGD
+   - slope & tangent
+   - Objective Function
+   - Constraints
+   - Lagrange Multiplier
+   - Eigen Value & Eigen Vectors
+
+=> At both minima & maxima the slope becomes 0
+
+-> Regularization can be thought of as an imposing an equality constraint & solving that via 
+   Langrangian Multipliers
+ 
+=> Dot Product = Cosine Similarity (assuming norm =1)

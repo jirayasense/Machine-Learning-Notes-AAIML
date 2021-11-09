@@ -1,0 +1,10 @@
+classification notes
+
+* Hyper-Parameters :
+  --------
+   parameter that decide how your model is going to perform
+   parameter that decide High-Bias (underfitting) - High - Variance (Overfitting) tradeoff
+
+   We determine Hyper-Param using CV
+
+

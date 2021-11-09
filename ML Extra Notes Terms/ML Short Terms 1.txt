@@ -27,3 +27,14 @@ Sparse :- not-uniform/random spread of data in the sparse dimension
 
 Dumb Model | Sensible Model | Random Model
 
+Hyper-Parameters
+Cross Validation 
+GridSearch, Random Search
+
+Collinear Features
+
+Objective Function in Optimization problem
+
+Lagrange Multiplier / Equality Constrainnts/ InEquality Constraints
+
+SMO SVM

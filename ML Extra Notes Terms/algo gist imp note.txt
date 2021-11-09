@@ -1,0 +1,112 @@
+* For any alogo what we see :- 
+
+   - Hyper-param  (Bias-Variance Tradeoff)
+   - Feature Importance & Interpretability
+   - Interpretability
+   - Imbalanced dataset
+   - Outliers
+   - Missing Val
+   - Large Dimension
+
+   - Feature Transformation
+
+=> Outliers mostly impacts the Overfitting 
+
+-> Whenever you have Categorical features, you can consider missing val as another feature (ie NAN)
+
+* Assumptions :  (NOTE : Every Model Makes some assumptions)
+  
+   KNN  -> Neighbourhood of pt is a pt
+   NB   -> Conditional Independence of features
+   LOR  -> Almost Linearly Seperable
+
+* Hyper Param
+
+   KNN -> K
+   NB  -> alpha (laplace smoothing)
+   Log-Reg -> alpha (regularization term)
+   SVM :- C, sigma
+   SVR :- epsilon
+
+* Feature Imp 
+
+   KNN -> need to do Forward Feature Selection
+   Naive Bayes -> can obtain directly (by likelihood lookup & sorting techniques)
+   Logistic Reg -> :- abs() val of Wj; Wj = Weight Vector  // when no collinearity
+                      or FFS
+
+* Imbalanced Dataset
+   
+   KNN -> UnderSampling or OverSampling
+   NB  -> drop priors
+   Log-Reg -> Up/Down Sampling
+
+* Mising Val Techniques
+   
+   KNN -> Imputation
+   NB -> Categorical : assume NAN as another class
+         Numerical   : Gaussian NB
+
+* Distance/Similarity Matrix
+   
+   KNN -> distance based - so can used
+   NB  -> probabilty based - so cannot used
+   LogReg -> distance can be used - may be used
+   SVM  -> can be used whilst using kernel SVM
+
+* Feature Transformation :  
+    - Normalization, Standardization
+    \
+     SVm :- kernel trick (implicit)
+
+* Loss-Minima Interpretation : (via diff approxiamtion func)
+   \
+    Log-Reg :- sign_distance vs Logistic-Loss plot 
+    Lin-Reg :- error vs Sq-Loss plot 
+
+
+* Optimization Algorithms :
+   
+   Gradient Descent
+   Stochastic Gradient Descent
+   Sequential minimal optimization (SMO-SVM)
+
+* Decision Surface :
+   
+   SVM : - LR-SVM :- plane, line, ...
+           Kernel-SVM :- non-linear surface
+
+---------------------
+
+-> Naive Bayes vs KNN (Space Complexity)
+   
+    Naive Bayes is better than KNN in terms of Space Complexity (ie space required at runtime in RAM)
+    O(c*d)                    O(n*d)
+
+-> In NB impact of smoothing on Minority Class will be more & on Majority class will be less
+
+=> We are using Loss Func as Approximation to Optimization problem as
+   Often times The Optimization Func is not differentiable & thus nonn-continuous
+
+=> We are using CV-Error to pick up the best Hyper-Param {K, alpha, lambda, ..}
+   by Hyper-Param diff vals & plotting CV-Error
+
+=> Thus if feature vectors are collinear or multi-collinear 
+      then your weight vectors may change arbitarily  (Just via simple linear eqn soln principle)
+
+=> The most imp aspect of ML is 
+      1) feature-engineering 
+      2) Bias-Variance TradeOff
+      3) Data Analysis
+
+=> Loss-Minima interpretation is via plotting diff approximationn func on Y-Axis
+
+=> In Linear Regression, no need to worry abt Imbalanced Dataset as There are no class labels
+
+=> As you put more features ie #features, The chances of Overfitting also increases
+
+- Hyper-Param : (Notations)
+        With loss term :- C
+             regularization term :- lma
+
+=> Impact of Outliers in SVM is very little as the SVs are the one that matter most

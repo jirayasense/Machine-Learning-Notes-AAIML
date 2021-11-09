@@ -28,3 +28,7 @@ Tips :-
 * np.meshgrid()   // better way to create grid from 2 vectors
 
 * zip() equivalent in numpy :- numpy.c_() or numpy.r_()
+
+* get the weight vector in Log-Reg :- classifier.coef_
+
+* to count non-zero entry in numpy array :- numpy.count_nonzero(a)

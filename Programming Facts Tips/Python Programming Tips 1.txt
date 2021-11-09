@@ -26,7 +26,12 @@ numpy + ML modules
 => Instead of using sparse array to store values
    Use  dict where key is tuple & value is value that would be present in sparse array actually
 
+* Numerical Underflow :
+  --
+   -> When floating point precison exceeds the 16 places after point then it is called Numerical Underflow
+      Then python starts rounding the number
 
+=> To deal with Numerical Underflow, one of the way is to use Log of the Variable i.e
+   As Log is Monotonic & does not change the Order of a numbers
 
-
-   
+=> Whenever you have categorical features, You can consider missing val as one other category ie (NAN)

@@ -1,0 +1,4 @@
+[Area using trapezoid method] https://www.cuemath.com/trapezoidal-rule-formula/
+
+[Intution of Planbe Eqn]
+https://math.stackexchange.com/questions/1770206/geometric-intuition-of-the-equation-of-a-plane

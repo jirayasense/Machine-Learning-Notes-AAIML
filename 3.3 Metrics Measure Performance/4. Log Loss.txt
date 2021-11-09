@@ -19,12 +19,15 @@ Log Loss :
 
 -> For Classification, good metric
 -> Log Loss uses exact probability scores
+-> Log Loss penalizing the small deviation in probability score
 
-   P_i = y_hat (ie y^) = probabilty score for y (pred-var) 
+   P_i = y_hat (ie y^) = probabilty score for y (pred-var)
+
+   log-loss := -avg((Yi*log(Pi) + (1-Yi)*log(1-Pi)))) 
 
    So If my model is great then 
    			P_i must be close to 1 in case when y = 1
-   								 0              y = 0
+   								           0              y = 0
 
    It's abt taking avg of -ve log-probabilty
 

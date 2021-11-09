@@ -4,5 +4,15 @@ Dirac-Test
 Zipf's law
 
 Hughes Phenomenon  (dimen performance correspondence)
+Laplace Smoothing  (for Numerical Stability of Fractional Numbers)
 
 Voronoi Diagram
+
+Pertubation Technique  // To find collinearity betweenn 2 Features (via noise reshaking)
+
+Ransac Technique
+Lagrange Multiplier
+
+Convex Hull // in algo & in polygon
+
+Mercer's Theorem   // Kernel-Trick

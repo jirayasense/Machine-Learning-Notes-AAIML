@@ -19,3 +19,13 @@ Tips 1
 -> Use common sense to clean data
 
 => Given any problem if you can convert it to Vector then we can leverage power of Linear Algebra
+
+=> To solve the optimization problem you need function to be differentiable
+
+=> Langrange Multiplier is helpful to solve the constrained Optimization problem
+
+=> The sparsity do not depends on the loss but on regularizer
+
+->-> To solve Real-World Problem more robustly, deal with Outliers very efficently
+
+-> Dot Product = Cosine Similarity (assuming norm =1)

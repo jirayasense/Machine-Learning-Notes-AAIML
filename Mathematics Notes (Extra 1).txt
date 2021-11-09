@@ -18,7 +18,6 @@ Mathematics Notes (Extra 1)
 
     -> How quick you are converging towards your goal [Newton-Raphson is best]
 
-
 -> Gradient Method (For Convergence)
 
 -> Feynman's method
@@ -40,5 +39,11 @@ Mathematics Notes (Extra 1)
 => Log is called a monotonnic function
 
 => Hyper-Plane is all about defining its Normal
+
+=> To solve the optimization problem you need function to be differentiable
+
+=> Inn optimization Problem, the point for which f(x) is minimum is the point for which -f(x) will be maxim
+
+
    
 

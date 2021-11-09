@@ -1,0 +1,16 @@
+algo ML-2 Imp Points
+
+- Hyper-param & CV
+ ------ 
+Train - Test Split :
+     \
+      Grid-SearchCV for finding best split ratio or optimal hyper-parameter (via Cross Validation)
+
+
+
+* Convex Hull for SVM : 
+
+* SVM :- 
+    RBF kernel imp   // intution similar to KNN
+
+    Algo to implement Dual Form of SVM :- SMO (Sequential Minimal Optimization)

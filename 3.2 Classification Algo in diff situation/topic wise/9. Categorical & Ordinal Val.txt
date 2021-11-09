@@ -1,5 +1,8 @@
 9. Categorical & Ordinal Val
 
+* Feature Transformation :
+  ---------------
+
 * Categorical & Ordinal features :
   ---------------------------
    given features possess some numerical & some categorical

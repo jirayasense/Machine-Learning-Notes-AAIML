@@ -1,0 +1,12 @@
+
+* Monotonic Func Rule :
+  -----------
+	If g(x) is a monotonic function
+	        \
+	         then argmin(f(x)) = argmin(g(f(x)))
+	              argmax(f(x)) = argmax(g(f(x)))
+
+* Optimization Rule :
+  -----------
+	In Optimization :
+	  The x that minimizes f(x) is the same that maximizes -f(x)

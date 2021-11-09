@@ -1,0 +1,13 @@
+Imp Concepts :-
+
+ - Projection / Distance / Dot Product / Angular Similarity
+
+ - Differentiation / slope / tangent / Vector Calculus / Partial Derivative / Gradient Descent/ 
+   Stochastic Gradient Descent / Objective Func
+
+ - Constrained Optimization
+
+ - Langrangian Multipliers / Equality Constraints / Inequality Constraints
+ - Eigen Val & Eigen Vectors 
+
+ - Convex Hull
