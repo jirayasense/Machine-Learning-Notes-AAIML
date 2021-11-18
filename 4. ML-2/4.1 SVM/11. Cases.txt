@@ -27,7 +27,7 @@ Cases
     - cannot get feature importance natively/directly
        (We have methods such as Forward Feature Selection)
        \
-        esp for kernel-SVM, they are not easlily interpretable
+        esp for kernel-SVM, they are not easily interpretable
 
         For Linear-SVM, we can thought of it as same as Logistic Regression
 

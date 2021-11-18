@@ -29,3 +29,5 @@ Tips 1
 ->-> To solve Real-World Problem more robustly, deal with Outliers very efficently
 
 -> Dot Product = Cosine Similarity (assuming norm =1)
+
+-> abs() is not differentiable at x=0

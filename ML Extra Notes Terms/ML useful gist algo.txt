@@ -6,3 +6,24 @@
    Optimization Problem
    Constrained Optimization Problem / Langrange Multiplier
    
+   Sparsity & Density of Data
+
+
+ -> Instead of term derivative we can use term gradient or grad
+
+
+ -> Basic Way to approach & solve problem :
+
+     1) Write the Objective Func
+     2) Impose any constraints if required
+     3) Finalise Optimization Problem
+     4) Take first Derivative = 0 & solve the problem
+        or
+        Use technique such as GD or SGD
+     5) Use Langrange muliplier if required
+
+
+* Variance :=
+    Model changes a lot with slight change in Training Data
+
+  Model Err := bias^2 + variance

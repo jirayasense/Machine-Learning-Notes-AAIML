@@ -6,7 +6,12 @@ Train - Test Split :
      \
       Grid-SearchCV for finding best split ratio or optimal hyper-parameter (via Cross Validation)
 
+----
+ KNN :- instance based method
+ NB  :- Probabilistic method
+ Log-Reg, Linear-Reg, SVM  :- Geometry Inspired
 
+---
 
 * Convex Hull for SVM : 
 
@@ -14,3 +19,20 @@ Train - Test Split :
     RBF kernel imp   // intution similar to KNN
 
     Algo to implement Dual Form of SVM :- SMO (Sequential Minimal Optimization)
+
+* DT
+  
+  => Feature will only be imp or useful when it reduces the entropy going down level in DT
+  or 
+  => If IG due to that feature fi is maximum overall whilst constructing tree then that feature is 
+     imp
+
+* Gradient Descent :
+  ------------
+   -> To approximate the optimization of a variable via update steps
+   - Eg Linear Regression
+
+  Steepest Descent :
+  ------
+   -> Similar concept to GD, where functions are optimized instead of variable
+   - Eg pseudo-residual

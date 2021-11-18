@@ -10,3 +10,12 @@
   -----------
 	In Optimization :
 	  The x that minimizes f(x) is the same that maximizes -f(x)
+
+=> Computing logs take more time complexity than computing squares
+
+
+* Basic Property PMF R.V :
+  -------
+   For Discrete R.V & its PMF
+      \
+       -> The sum(P(x)) = 1

@@ -25,6 +25,10 @@ TIP :- For Simplification You can assume plane passes through an Origin so b = 0
 
     argmax( f(x) ) = argmin ( 1 / f(x))
 
+  - Gradient descent : (Approxiamtion)
+    ------
+     - Update Step
+
 
 * Collinear Features :
   -------------
@@ -57,6 +61,7 @@ __________
    - Constraints
    - Lagrange Multiplier
    - Eigen Value & Eigen Vectors
+   - Steepest Ddescent
 
 => At both minima & maxima the slope becomes 0
 
@@ -64,3 +69,12 @@ __________
    Langrangian Multipliers
  
 => Dot Product = Cosine Similarity (assuming norm =1)
+
+=> abs() val func is not differentiable around 0 but we can find hack for it
+
+* Differentiability of Function abs() :
+  ----
+   -> abs() is not differentiable at x=0
+
+* Partial Derivative vs Grad :
+  -----

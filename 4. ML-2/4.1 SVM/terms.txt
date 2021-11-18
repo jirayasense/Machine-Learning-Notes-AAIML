@@ -16,3 +16,6 @@ Kernel trick | Kernalization
 Kernel Logistic Regression
 
 Polynomial Kernel	
+Radial Basis Func (RBF) Kernel  | Gaussian kernel
+NuSVM
+SVR

@@ -47,7 +47,7 @@ _________________
    geometrically   (-1 & 1)
    probabilistic   (0 & 1)
 
-   2) argmin(Sum( -Yi*Pi - (1-Yi)(1-Pi) ))
+   2) argmin(Sum( -Yi*Pi - (1-Yi)(1-Pi) ))   // probabilistic interp as Pi represent Probability
 
    Case 1) When Yi = +ve i.e +1
 

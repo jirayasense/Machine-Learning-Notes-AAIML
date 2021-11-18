@@ -17,6 +17,8 @@ gist SVM
 
 ------------
 
+Hyper Params :- { C, sigma, epsilon }
+
 
 * Hard Margin SVM :- No errors are allowed so focus on margin gap only
 
@@ -114,8 +116,11 @@ Kernel Function :- equivalent to Similarity Function
 
 * SVR :
   ----
-   
+   SVR is for Regression purpose & 
+   Hyper-Param = epsilon
 
+   behaves similar to KNN or RBF
+   
 ---------------
 
 Python 

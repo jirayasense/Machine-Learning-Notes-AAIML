@@ -10,4 +10,19 @@ Imp Concepts :-
  - Langrangian Multipliers / Equality Constraints / Inequality Constraints
  - Eigen Val & Eigen Vectors 
 
- - Convex Hull
+ - Convex Hull | Convex Polygon
+
+ - Entropy
+
+ - Spasity & Density of Data | Matrix
+
+ - Linear / Non-linear Shape
+
+ - Bootstraping
+ - Random Forest
+ - Feature Bagging | Columnn Sampling
+ - Boosting
+
+ - Residuals
+
+ - Steepest Descent

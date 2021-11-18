@@ -6,6 +6,7 @@ Imp Concepts :- Projection / Distance / Dot Product / Angular Similarity
 
 				Differentiation / slope / tangent / Vector Calculus / Partial Derivative / Gradient Descent/ 
 				Objective function
+
 				
 ------------------------
 
@@ -29,3 +30,21 @@ Imp Concepts :- Projection / Distance / Dot Product / Angular Similarity
    Langrangian Multipliers
 
 => The sparsity do not depends on the loss but on regularizer
+
+=< For regression we use Mean Squared Error (MSE) or Median Absolute Deviation (MAD)
+
+=> Bagging helps use to reduce the Variance of a Model
+
+=> Thus approximating the residual with pseudo-residuals we can optimize our problem for any loss func
+
+=> Hinge Loss has small problem i.e at Hinge its not differentiable
+
+=> For any model, always use Cross Validation to get Hyper-param
+
+=> Use GBDT impl of XGBoost instead of Scikit learn implementation
+
+=> GBDT is applied more than AdABoost esp at internet companies
+
+=> When the cost of making a mistake is very high :- Cascade models are used typically
+
+-> Ensemble Model is used very much in kaggle Competition

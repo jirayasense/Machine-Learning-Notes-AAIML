@@ -48,6 +48,6 @@ SVR :- Yi in Real-Vals
 ---------
 gist :-
    
-   Thus in SVR :- only minimze the loss function with some constraints
+   Thus in SVR :- only minimze the Regularization Term with some constraints
 
 

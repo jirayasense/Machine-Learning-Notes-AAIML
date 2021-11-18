@@ -1,8 +1,13 @@
 * Naive bayes - Weather { Sunny, Rain, } 
               - Spam  ( Text )
 
-
 * Linear Reg - Height, or Weight
+
+* DT :- Play Tennis Eg
+
+* NB :- cancer Detection
+
+* Cascading Model :- Credit Card Fraudelent, Cancer Detection
 
 	
 ------------------

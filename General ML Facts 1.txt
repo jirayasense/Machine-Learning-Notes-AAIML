@@ -29,6 +29,9 @@ Mathematcis Fact :
 
  -> To solve Real-World Problem more robustly, deal with Outliers very efficently
 
+ -> Categories of categorical features are also called as Levels
+
+ -> Internet companies sits on peta-bytes of data
 
 Algorithm :-
 ------
@@ -54,3 +57,11 @@ Algorithm :-
 -> The whole of ML is glorified Feature Engineering (with sime simple Algo)
 
 => One of the most imp algorithm for Optimization in ML is Stochastic Gradient Descent (SGD)
+
+-> Fav algo should not be there in ML as it must depend on Problem instead of personal biases
+
+-> Error = bias^2 + variance + c   // c is irreducible error
+
+-> GBDT is applied more than AdABoost esp at internet companies
+
+-> Ensemble Model is used very much in kaggle Competition

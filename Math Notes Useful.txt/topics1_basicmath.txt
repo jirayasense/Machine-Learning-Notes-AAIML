@@ -19,3 +19,5 @@ topics
 - Monotonic Func
 
 - Linear & Quadratic Eqn
+
+- Partial Derivative & Grad

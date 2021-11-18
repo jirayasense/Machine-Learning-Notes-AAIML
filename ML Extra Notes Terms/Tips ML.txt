@@ -52,3 +52,9 @@ Tips ML
 => As you put more features ie #features, The chances of Overfitting also increases
 
 => Sparsity depends on Weights & biases & not on loss-term
+
+=> Computing logs take more time complexity than computing squares
+
+=> For distance based model : Feature standardization is pivotal
+
+=> Error = bias^2 + variance + c   // c is irreducible error

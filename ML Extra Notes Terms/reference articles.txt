@@ -5,3 +5,11 @@ https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/
 
 [Norms in ML]
 https://machinelearningmastery.com/vector-norms-machine-learning/
+
+
+
+---------
+mine 
+
+[k Fold CV]
+https://medium.datadriveninvestor.com/k-fold-cross-validation-6b8518070833

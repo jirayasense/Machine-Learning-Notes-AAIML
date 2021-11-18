@@ -67,7 +67,7 @@ _________________________
        ratio
        (As ratio are easily corrupted when you have small vals in numerator or denominator)
     
-    => Thus LS is just trying to move likelihood closer to Equi-Probable if the ratio in original 
+  **=> Thus LS is just trying to move likelihood closer to Equi-Probable if the ratio in original 
        likelihood is too small
 
     -> LS needs to be done for all pts values i.e training pts as well

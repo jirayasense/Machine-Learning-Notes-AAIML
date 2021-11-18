@@ -3,6 +3,8 @@ some unique new laws
 Dirac-Test
 Zipf's law
 
+Laplace Smoothing
+
 Hughes Phenomenon  (dimen performance correspondence)
 Laplace Smoothing  (for Numerical Stability of Fractional Numbers)
 
@@ -16,3 +18,9 @@ Lagrange Multiplier
 Convex Hull // in algo & in polygon
 
 Mercer's Theorem   // Kernel-Trick
+
+// for comparing or finding dist between 2 distb
+KS-Statistics
+KL-Divergence 
+
+Emperical Risk Minimization  // framework in stats ML 

@@ -60,3 +60,6 @@ Math Notes 1
 
 => Dot Product = Cosine Similarity (assuming norm =1)
 
+- euler number = 2.78
+
+-> Computing logs take more time complexity than computing squares
