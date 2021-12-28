@@ -19,3 +19,14 @@
    For Discrete R.V & its PMF
       \
        -> The sum(P(x)) = 1
+
+
+* For sets similarity we have diff techniques : 
+  1) Jaccard Distance 
+  2) Otsuha Ochiai Coeff (Cosine dist alike)
+  
+  3) Adam / Adar Index ( For Directed Graph)
+
+
+* Monnte Carlo simulations :
+  -------

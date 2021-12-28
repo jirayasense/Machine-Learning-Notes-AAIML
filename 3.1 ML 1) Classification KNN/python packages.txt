@@ -3,8 +3,6 @@
 
 
 -----------------
-
-
 * sklearn
   	\
    	neighbours.KNeighbourClassifier

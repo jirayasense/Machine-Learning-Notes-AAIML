@@ -6,10 +6,10 @@
   all()
 
   
-
-
-
+* time 
 
 --------
+
+=> Python comes inbuilt with SqlIte
   
   

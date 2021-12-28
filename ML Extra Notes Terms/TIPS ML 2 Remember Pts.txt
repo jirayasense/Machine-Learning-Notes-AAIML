@@ -7,7 +7,11 @@ Imp Concepts :- Projection / Distance / Dot Product / Angular Similarity
 				Differentiation / slope / tangent / Vector Calculus / Partial Derivative / Gradient Descent/ 
 				Objective function
 
-				
+
+--------
+
+=> The gap between metric value in Elbow method for train & test should be minimal
+
 ------------------------
 
 -> Feature Collinearity Test :- Use Pertubation Technique
@@ -25,6 +29,9 @@ Imp Concepts :- Projection / Distance / Dot Product / Angular Similarity
 => there is no problem of imbalanced data in linear regression as there are no class labels.
 
 => One of the most imp algorithm for Optimization in ML is Stochastic Gradient Descent (SGD)
+
+=> So when you only need the Similarity between Pairs of Points, 
+      -> You can trivially Kernalize it
 
 -> Regularization can be thought of as an imposing an equality constraint & solving that via 
    Langrangian Multipliers
@@ -48,3 +55,29 @@ Imp Concepts :- Projection / Distance / Dot Product / Angular Similarity
 => When the cost of making a mistake is very high :- Cascade models are used typically
 
 -> Ensemble Model is used very much in kaggle Competition
+
+-> Algorithm Model need not only to be used as Classification but can also be used as Featurization
+   Eg DT for Feature binning
+
+=> DT is one of the good technique for Binning of reaal-valued features
+
+=> Models & Featurization are inter-related
+
+=> New feature to be included for Model Consideration should be Such That its get correlated with the 
+   error (from model that was trained with that new feature inclusion)
+
+=> If you have more parameter to estimate then you need more data or points
+
+=> Whenever you have log-loss as metric, train a base model & then also train a calibrated Model
+
+=> You need to consider the retraining of model periodically, when data is changing over time
+
+=> Use elbow methods to find the correct thresolds, ie (esp during Hyper-Param Tuning)
+
+=> Use Stratified sampling whilst train-test-split, inorder to preserve the distribution among splitted parts 
+
+=> At the end GridSearchCV or RandomSearchCV helps us to find the best hyper-param value for Model
+   out of many hyper-param models
+
+=> Normalization or Standardization needs to be performed before CV but after SPlit
+   inorder to avoid Data Leakage Problem !!

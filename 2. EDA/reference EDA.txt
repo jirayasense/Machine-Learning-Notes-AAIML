@@ -8,6 +8,8 @@ reference
 
 [Uniform Distb] https://drive.google.com/file/d/1PPBLFNgenHy2EiXCAP4n_rtjgBe5SnMw/view
 
+[KS Test] https://colab.research.google.com/drive/1IGKj7OVZ_S4vNEMBEuVQNoniJT_UHQE8?usp=drive_open
+
 ---------
 (Extra)
 (Articles)
@@ -20,6 +22,13 @@ https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-cours
 
 [Distribution Common]
 https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/
+
+[percenntiles]
+https://www.statisticshowto.com/probability-and-statistics/percentiles-rank-range/
+
+[Binning]
+https://pbpython.com/pandas-qcut-cut.html
+
 
 ---------
 Study

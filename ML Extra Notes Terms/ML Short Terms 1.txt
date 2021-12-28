@@ -47,3 +47,15 @@ Feature Bagging | Column Sampling
 
 Residuals
 Pseudo-Residuals
+
+AB testing
+Offline testing
+Online testing
+
+Shattering
+
+High Throughput
+
+Temporal Nature of Data
+
+Approximationn Algo (For hard Problemn)

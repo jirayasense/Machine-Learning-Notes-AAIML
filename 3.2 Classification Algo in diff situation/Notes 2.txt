@@ -43,6 +43,11 @@ ______________________________
      i.e Cross Validation Error = low but
                    Test Error  = high
 
+                   or 
+
+         Train Error = Low
+         Cv error = High   
+
     So when you get such scenario like 
        CV-error = low
        Test-Err = high

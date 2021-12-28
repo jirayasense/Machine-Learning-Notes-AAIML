@@ -6,6 +6,8 @@ ML = Art + Science
      Art = Feature Engineering/Trasnf, Exploration, EDA  (Creative)
      Science = geometry, probability, Algorithms
 
+=> High ThroughPut & Low-Latency Aplication
+
 Mathematcis Fact :
 ------
  -> Simplest way to represent the rectangle is by a Diagonal Coordinates 
@@ -32,6 +34,8 @@ Mathematcis Fact :
  -> Categories of categorical features are also called as Levels
 
  -> Internet companies sits on peta-bytes of data
+
+ -> At the end of the day all ML algo need to work with numerical features/vectors
 
 Algorithm :-
 ------
@@ -65,3 +69,8 @@ Algorithm :-
 -> GBDT is applied more than AdABoost esp at internet companies
 
 -> Ensemble Model is used very much in kaggle Competition
+
+-> Algorithm Model need not only to be used as Classification but can also be used as Featurization
+   Eg DT for Feature binning
+
+=> If you have more parameter to estimate then you need more data or points

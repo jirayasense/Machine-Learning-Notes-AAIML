@@ -8,7 +8,7 @@ cs229.stanford.edu/notes2020spring/cs229-notes3.pdf%C2%A0
 => Dot Product = Cosine Similarity (assuming norm =1)
 
 -> The most imp idea in SVM is Kernel Trick
- => Hence Kernal-SVM using Kernel-Trick can solve Non-Linearly Seperable Datasets also
+=> Hence Kernal-SVM using Kernel-Trick can solve Non-Linearly Seperable Datasets also
 
 -----------------
 
@@ -30,7 +30,6 @@ argmax for alpha := ...
 => The Support Vectors are the one that matter for classification most
 
 f(Xq) = sum(alpha_i * Xi^T*Xq) + b
-
    \
     -> Thus Non-Support-Vector dont change the function 
        So only thing that matters is a Support Vectors

@@ -131,5 +131,25 @@ ______________________________________________
    pick any top k - then check what is variance explained by that k eigen values
 
 
+--------------
+
+(Gist & Interesting PCA)
+
+PCA - want to find direction s.t maximum info is retained
+   \
+    For this why Eigen Vectors & Eigen Values only
+     \
+      -> Theoretically :- In optimization problem when constraints are imposed eigen val 
+                          comes into picture
+
+         Intutively :- Spread depends on the Space define by your Basis Vector 
+                       &
+                       You need to alter the space i.e Basis Vectors
+                       |
+                       -> 
+                       Covariance Matrix is the term that is calculated based on basis vectors & features
+
+                       Simply It gives idea about how 2 features vary w.r.t each other
+                       = & try to pick those features first which vary most
 
 

@@ -1,0 +1,3 @@
+Doubts
+
+1) Distance of Origin from plane How ?? b / ||w||

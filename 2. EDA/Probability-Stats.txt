@@ -104,7 +104,7 @@ ________________________________________________
     -> Skewness measures how long tailed & in which direction tailed
 
   Kurtosis :
-  ---
+  -------
   	-> Determines the shape of PDF
   	-> mesaurement of tailedness  (not peakedness)
 

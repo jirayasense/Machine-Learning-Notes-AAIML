@@ -7,4 +7,9 @@
    meshgrid()
 
    stats -> cumsum(), mean(), meadian()
+
+
+* scipy :
+  ----
+   finnd_peaks()
    

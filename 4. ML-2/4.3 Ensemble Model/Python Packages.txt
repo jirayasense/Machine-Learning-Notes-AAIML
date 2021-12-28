@@ -33,6 +33,8 @@ ________
 		       \
 		        .cross_val_score()   // cross validation
 
+		      .VotingClassifier
+
 * XGBoostClassifier
 
 * mlextend.classifier

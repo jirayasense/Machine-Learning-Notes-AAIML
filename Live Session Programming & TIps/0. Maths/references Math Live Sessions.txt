@@ -1,0 +1,7 @@
+references Math Live Sessions
+
+- (Linear Algebra)
+ https://colab.research.google.com/drive/1u702voTlK7dj7GRFXyGQtdq-LBSmcLkG
+
+- (Probability & Stats 1)
+https://drive.google.com/file/d/1dS-kf0DNVT6VLhDiVYQ6bo6XWwrT0SnW/view

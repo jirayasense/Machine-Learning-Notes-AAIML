@@ -33,7 +33,7 @@ ________________________________
     
     => In case of LR, y will be Real value & not a class label
         So
-        -> Instead of Majority Vote, Use `Mean` or `Median` to find the NN, & 
+        -> Instead of `Majority Vote`, Use `Mean` or `Median` to find the NN, & 
         appropriaate real val
 
 * Weighted KNN :
@@ -84,8 +84,7 @@ ________________________________
             nD        hyper-planes ->    hyper-cuboid
 
 
-
-    Find nnearest neighbour using KD-Tree :
+    Find nearest neighbour using KD-Tree :
     ------
      -> 1) Keep checking till reach leaf node
            Reach to leaf node 

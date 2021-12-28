@@ -16,6 +16,8 @@ Tip -> `%timeit {expr}`   //can be used in Jupyter NB to calculate avg times
 
 => Convert a matrix i.e (n1, n2,...nk) to a vector : arr.reshape(n1 * n2 * ... * nk)
 
+=> linear algebra :- np.linalg
+
 ------------------------------------------
 
 
@@ -114,6 +116,7 @@ Tip -> `%timeit {expr}`   //can be used in Jupyter NB to calculate avg times
    => broadcasting is performed implicitly by np in python
 
 
+
 --------- Miscellaneous (Advance- Intermediate) ------------
 
 * np.newaxis :
@@ -170,4 +173,21 @@ Tip -> `%timeit {expr}`   //can be used in Jupyter NB to calculate avg times
   np.matmul()  // matrix multiplication
   np.vstack()  // vertical stacking
 
-  np.meshgrid()
+  np.meshgrid()  //
+
+  numpy.diff()    // difference between consecutive numbers pair in original arr
+       .sign()    // copysign in python
+
+  np.where()     // filter
+
+  np.unique()
+    .full()
+
+  np.vander()   // vandermode matrix
+
+  matrix_obj.A1  // returns the self matrix as flattened array
+
+  np.sign()    // provides the sign of numbers
+
+
+  np.linalg.norm() // linear algebra

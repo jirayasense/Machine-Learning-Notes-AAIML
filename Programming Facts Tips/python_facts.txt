@@ -5,3 +5,4 @@
 
 -> random.random() is uniformly distributed random variables (in range 0 -> 1)
 
+-> os.path.isfile('fname') checks if file exists

@@ -44,7 +44,6 @@ Doubts
 10) As Dimen is very high, How data is linearly seperable (probability incr) ??
    (from Log-Reg Real World Cases)
 
-
 11) Does Gradient Descent is applied on entire Optimization Proble 
     (ie Loss Term  + Regularization Term)
     Or just apply first considering Loss term & then once optimized 
@@ -53,8 +52,67 @@ Doubts
     (If does this way then do chances of Overfitting increases  ???)
 
 
+12) Why for Very High Dimen Features, Linear Model are preferred ??
+   
+    (from Featurization technique Vide0 : Model specific Featurization)
+
+13) What is the significance of Calibration ??
+   - because what calibration is trying to achieve seems simmilar to minimizing Loss Func in GD Optimization !
+   & that is already being done  ??
+
+
+14) Distance of Point from a Plane ?? Why divide by norm of a vector ??
+
+15) Why Train Error & Test Err difference should be minimum ??
+     - What if I have 2 obsv with optimal Test err but with diff train err
+       then which one to pick
+        obsv with large diff but less train err
+        or obsv that has less diff but high train err
+
+16) (from Liear Regression)
+    
+    As we know that hyper-parameter is decided via Train Dataset ie During gradient descent Algo
+     -> ie we get our weights vector
+
+    Now What is the Role of CV dataset ie (Cross Validation) ??
+     -> to decide genralization param
+        or 
+        to decide generalization param as well as improve weights vector ??
+          \
+           because weight vector ie Coeff is already decided by Training Phase via Gradient Descent
+           & Loss Function
+
+    in Linear Reg :- With the help of Train Data we find Coef (ie Weights)
+                     What is the role of CV dataset in Linear Reg what its impacting on model ?
+                       -> learning rate (ie langrange param, learning rate )
+
+Q) Does Sparse Representation benefits whilst using the Cosine similarity over Dense Repr ??
+   if yes then how ??
+
+   sparse Repr for Euc Dist Understood -> as dimen incr, dist makes less sense
+   
+   (KNN in various scenarios)
+
+
+Q) Why Feature Scaling (ie Normalization) is done after Splittinng ?
+
+   -> Won't it make some values from Test going outside of range ie more than 1 
+      or less than 0
+   
+
+
 ---------------------
 
 (Resource to ask for AAIML)
 
 -> SQL commands.txt	
+
+
+programming Que ??
+
+Q) does all the intermediate computed results info in ML process are pickled to .p extension files
+   ie does pascal source code is compatible with major kinda computed results ??
+
+   or which are such other files extension format that are used to cache store the Intermediate results via pickling ??
+
+   (ref : Social Media link Prediction - katz centrality)

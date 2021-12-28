@@ -52,7 +52,7 @@ ________________________________________
    Model & BlackBox
 
    - Black Box Model -> concern with output but not say anything abt reasonings
-   - Interpretable Model -> If model can give some reasoning abotu why particuar Output !
+   - Interpretable Model -> If model can give some reasoning about why particuar Output !
 
    If model can give some reasonings, then domain expert about that application field can interpret  it probably the reason with more ideas
 

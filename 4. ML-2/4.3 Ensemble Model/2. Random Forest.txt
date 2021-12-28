@@ -54,6 +54,8 @@ __________
     :- Mi -> Di
        Dn-Di -> oob samples = CV dataset for Mi
 
+    - out of bag score (oob score) 
+
 (gIST)
 * So in a nutshell :
   	RF :- DT as base learners   // DT are of reasonable depth ie fully grown

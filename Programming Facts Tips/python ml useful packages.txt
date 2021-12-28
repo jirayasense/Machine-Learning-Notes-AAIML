@@ -7,4 +7,26 @@ wget -> download from url
 
 bs4.BeautifulSoup -> 
 
-tqdm  -> fpr printing status bar
+tqdm  -> for printing status bar | progress bar
+
+tabulate -> beutiful print dataframe
+
+fuzzywuzzy
+
+networkx   // for Graph Network
+
+dask
+folium
+
+sklearn
+
+multiprocessing 
+    \
+     Manager
+
+
+-----
+
+fuzzywuzzy
+
+

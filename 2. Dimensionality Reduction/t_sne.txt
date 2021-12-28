@@ -13,8 +13,6 @@ TIPS
 
 ------
 
-
-
 -> most powerful technique
 
 -> PCA tries to preserve Global Shape of Data
@@ -50,6 +48,8 @@ TSNE = Probabilistic Neighbourhood Embedding
 
    -> T-distb is used to ameliorate the above problem to some extent at its best
 
+* Iterative Algorithm :
+  -------
 
   TSne is an iterative algo (just like Clustering)
      \

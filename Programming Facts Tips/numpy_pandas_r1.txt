@@ -4,9 +4,22 @@ numpy :
 pd.head()  
 
 pandas :
+
+   describe()
+   info()
+   shape
    
    drop_duplicates()
    sort_values()
 
    map()
    value_counts()  //freq count for values in column/series
+
+   read_hdf   // ? load from disk 
+
+tabulate :   // to pretty display pandas dataframe
+
+dask : to load chunks of data from dataframe into RAM
+
+
+sklearn

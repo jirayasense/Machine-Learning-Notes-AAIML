@@ -6,6 +6,9 @@ https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/
 [Norms in ML]
 https://machinelearningmastery.com/vector-norms-machine-learning/
 
+[Kaggle Winner Interview featurizaation]
+kaggle.com/category/winnners-interviews/
+
 
 
 ---------
@@ -13,3 +16,24 @@ mine
 
 [k Fold CV]
 https://medium.datadriveninvestor.com/k-fold-cross-validation-6b8518070833
+
+[sgd classif vs logistic regression]
+https://datascience.stackexchange.com/questions/37941/what-is-the-difference-between-sgd-classifier-and-the-logisitc-regression
+
+[percenntiles]
+https://www.statisticshowto.com/probability-and-statistics/percentiles-rank-range/
+
+[Binning]
+https://pbpython.com/pandas-qcut-cut.html
+
+[Feature Scaling]
+https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/
+
+[Data Leakage]
+https://towardsdatascience.com/preventing-data-leakage-in-your-machine-learning-model-9ae54b3cd1fb#:~:text=5.,to%20normalize%20AFTER%20splitting%20data.
+
+-------
+
+questions
+
+https://stackoverflow.com/questions/17017878/is-scikit-learn-suitable-for-big-data-tasks

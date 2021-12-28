@@ -18,8 +18,6 @@ Tips-Highlight :-
 
 => K-fold CV provides you k results
 
-
-
 ____________________________________
 
 Terminologies :
@@ -128,7 +126,8 @@ Q*) How to determine K ??
         k`-fold CV => To arrive to accuracy for Kth value in {1,2,...n}, 
                       We are taking avg accuracy of k` obsv|experiment
 
-    You can then find best value of K via plot (K, avg_accuracy) as dicussed earlier
+    Elbow Methods :
+      You can then find best value of K via plot (K, avg_accuracy) as dicussed earlier
 
    :) Motif => used all of training data to determine the function|algorithm  
               whereas in 3-split, CV was not used to its max efficiency in finding the algo

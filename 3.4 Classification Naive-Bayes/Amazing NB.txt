@@ -1,0 +1,5 @@
+Amazing NB
+
+* Mix Multinomial + Gaussiann 
+------
+https://stackoverflow.com/questions/14254203/mixing-categorial-and-continuous-data-in-naive-bayes-classifier-using-scikit-lea

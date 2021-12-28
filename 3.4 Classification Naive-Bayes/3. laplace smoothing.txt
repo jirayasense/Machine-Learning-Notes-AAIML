@@ -1,4 +1,6 @@
+ref : https://www.analyticsvidhya.com/blog/2021/04/improve-naive-bayes-text-classifier-using-laplace-smoothing/
 
+________________________
 * Tips-Facts :
 
 => If numerator or denominator in original likelihood is small then you have less confidence abt the 
@@ -7,6 +9,8 @@
 
 => in most cases alpha = 1 is taken
    As alpha incr, it move towards Uniform Distribution
+
+try alpha values :- {1, 10, 1000, 5000 }
 _________________________
 
 * Laplace Smoothing :
@@ -78,4 +82,15 @@ _________________________
      -> Its also called Additive Smoothing as We are adding something to numerator & denominator
 
 
+---------------
+(EXTRA)
 
+Hyper-Parameter Tuning 
+
+Finding Optimal ‘α’:
+
+Here, alpha is a hyper-parameter and you have to tune it. The basic methods fortune it is as follows:
+
+1. Using elbow plot, try plotting ‘performance metric’ v/s ‘α’ hyper-parameter.
+
+2. In most cases, the best way to determine optimal values of alpha is through a grid search over possible parameter values, using cross-validation to evaluate the performance of the model on your data at each value

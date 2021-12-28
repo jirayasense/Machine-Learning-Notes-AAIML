@@ -1,3 +1,4 @@
+
 Tips :-
 
  -> Visualization can neve be perfect 
@@ -219,6 +220,9 @@ NOTE
    => Contour Plot helps you to find out higher density in 2D
 
 
+--------- (extra)---------------
 
-
+* Word Cloud Plot:
+  --------
+   - help us to Which word occur most in certain scenario
 

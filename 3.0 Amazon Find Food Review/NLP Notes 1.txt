@@ -53,7 +53,7 @@ Method of approximation
     -----
      Process :- 
         if similarity(r1, r2) > similarity(r1, r3)   //r1, r2, r3 are texts
-       then dist(v1, v2) < dist(v1, v3)
+      then dist(v1, v2) < dist(v1, v3)
 
 
 * Bag Of Words :
@@ -176,7 +176,7 @@ Q) Why Log in IDF ??
 
    -> Zipf's law :- Words in English langugae follows a Power-law distb
 
-      :- ASA you've power log distb, Taking Log is good Idea
+      :- ASA you've power law distb, Taking Log is good Idea
 
    => For a PDF which follows Zipf's law, 
       both x and y-axis should be in log-axis to obtain a straight line. 

@@ -31,3 +31,9 @@ Tips 1
 -> Dot Product = Cosine Similarity (assuming norm =1)
 
 -> abs() is not differentiable at x=0
+
+-> Read Lots of Literature in ML for understanding Data & finding correct featurization
+
+=> Best way to learn the Image Data is CNN Deep Learning Algo
+
+=> Penalized Terms in yout equation when you think some have nore impact than others

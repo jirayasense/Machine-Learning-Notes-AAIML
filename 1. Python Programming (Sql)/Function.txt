@@ -37,7 +37,6 @@
    minus :- hard to follow, memory overhead, stack overflow, hard to debug
 
 
-* Anonymouse / Lambda :
+* Anonymous / Lambda :
   -------------------
-
   	`lambda` 

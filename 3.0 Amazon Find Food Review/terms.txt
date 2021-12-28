@@ -16,6 +16,7 @@ trivial(less imp | more common) words, non-trivial words
 Text-Preprocessing
 stop words
 stemming
+Tokenization | Vectorizationn
 
 Bi-grams, Uni-grams, n-grams
 TF-IDF

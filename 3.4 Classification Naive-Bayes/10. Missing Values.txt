@@ -1,4 +1,4 @@
-10 Missing Values
+* Missing Values
 
 1) Text data :
    -----
@@ -42,6 +42,13 @@
     ___________
     - When the feature can take only 2 values 
     - So assume likelihood probability as Bernoulli NB
+
+
+  * (MultiNomial NB)
+    ____________
+     
+    - Occurence Counts ie Frequenncy Counts of Feature
+   
 
 
 

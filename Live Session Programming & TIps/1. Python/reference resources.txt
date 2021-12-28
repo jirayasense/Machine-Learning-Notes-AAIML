@@ -1,0 +1,17 @@
+reference resources
+
+[OOP 1]
+https://drive.google.com/file/d/1UFq3ttvMGoEwEVcMYZBXPPPRaGJXcq8V/view?usp=sharing
+https://drive.google.com/file/d/11yUElCNeSUxVQYSJSgrPhLTXnDOnNmM6/view?usp=sharing
+
+[OOP 2]
+https://drive.google.com/file/d/1UFq3ttvMGoEwEVcMYZBXPPPRaGJXcq8V/view
+https://drive.google.com/file/d/11yUElCNeSUxVQYSJSgrPhLTXnDOnNmM6/view?usp=sharing
+
+[Pandas Nunpy 1]
+https://drive.google.com/file/d/15BF-AMtPxcT0kkKMxiqbIRLIwnB9dLbp/view?usp=sharing 
+https://drive.google.com/file/d/1BYXe2PDXgYSRd1tr33j2PvfHSW9T9qdK/view?usp=sharing
+
+[Pandas Nunmpy 2]
+https://colab.research.google.com/drive/1kj4SOET8j31Y0qjiAy4NC2pKOHs9YmSq
+

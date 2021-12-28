@@ -127,6 +127,8 @@ __________________________
         4) Model based Imputation :
            ------
             -> try to predict missing val using model-algorithm
+                  \
+                   treating that column which has missing val as to be predicted feature
 
             -> Convert particular feature/col where there are missing val as predicted feature /column
                & try to put missing val pts in test set

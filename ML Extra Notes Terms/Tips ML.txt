@@ -58,3 +58,11 @@ Tips ML
 => For distance based model : Feature standardization is pivotal
 
 => Error = bias^2 + variance + c   // c is irreducible error
+
+=> In high dimen space to sperate data is not very hard 
+   so Linear Models works well in such case
+   - There are many options for hyper-param
+
+=> Linear Model have tendency towards High Bias Problem
+
+-> Cross Validations is more trustworthy than the domain knowledge

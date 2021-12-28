@@ -13,6 +13,8 @@
 
    - Sparsity / density
 
+   - High throughput & Low-Latency
+
 => Outliers mostly impacts the Overfitting 
 
 -> Whenever you have Categorical features, you can consider missing val as another feature (ie NAN)
@@ -100,6 +102,26 @@
   
   Ordering Imp in Model : Decision Tree
 
+
+* Make Model more Robust :- Generalization via Regularization term
+                            RANSAC  (esp for Linear Model)
+
+
+* Hyper-Parameter Tuning :
+  ----------
+  methods
+   - Grid Search CV
+   - Random search CV
+   - Elbow Method (by plotting Curve for different value)
+
+   => hyper-parameter is one that fixed before learning a model parameters
+        \
+         -> are used to make model more robust & generalized 
+         -> helps to make tradeoff between bias-variance
+         -> otherwise model parameter may tends towards more biased or more variance problems
+
+=> When you have high dimension data, linear Models performs very well
+
 ---------------------
 
 -> Naive Bayes vs KNN (Space Complexity)
@@ -143,3 +165,17 @@
 
 => IMP NOTE :- error term :- bias term related
                weight coeff term :- variance term related
+
+=> When you do not have same data pt for 2 different model (ie in case of imbalanced data)
+   then connsider Confidence Interval instead of point Estimate for Metric
+
+* High Througput = lots of Query point
+  Low - Latency = faster system
+
+* KPI = Key performance metric
+
+* Use ROC-AUC curve for KNN with probabilities (esp when there is binary classification)
+
+* => At the end GridSearchCV or RandomSearchCV helps us to find the best hyper-param value for Model
+   out of many hyper-param models
+

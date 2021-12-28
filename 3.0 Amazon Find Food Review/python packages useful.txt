@@ -19,8 +19,6 @@ nltk
      \
       .most_common()
 
-
-
 sklearn
   \ 
    feature_extraction.text
@@ -28,13 +26,14 @@ sklearn
    CountVectorizer()   // for BOW text -> Vector 
      \ 
       fit_transform()
+                       { params : tokenize }
 
    TfidfVectorizer   // tfidf vectors from text
    	\
    	 get_feature_names()   // all dimensions name i.e words
 
 
- gensim
+gensim
    \
     models.Word2Vec      // train your own Word2Vec
             \ 
@@ -46,6 +45,9 @@ sklearn
                  .wv.similarity()     // similarity between 2 words 0 - 1
                  .wv.most_similar()
 
+spacy :
+  
+  Glove  // word to vector
 
 
 pandas 
@@ -58,3 +60,6 @@ pandas
   series :
     .map()    // transform data via function
     .value_counts()  //freq count for values in column/series
+
+
+

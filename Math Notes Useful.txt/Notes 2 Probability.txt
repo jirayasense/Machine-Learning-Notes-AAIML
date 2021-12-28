@@ -1,2 +1,5 @@
 Simple Independence 
 Conditional Independence
+
+Standard Deviation is influence by Outliers a Lot
+While MAD is less influence by an Outliers

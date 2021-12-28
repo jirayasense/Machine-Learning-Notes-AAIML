@@ -1,0 +1,8 @@
+python packages
+
+* PrettyTable   // to display tabular like structure in nice way
+
+
+* scipy.stats 
+         \
+         ks_2samp   // KS testing

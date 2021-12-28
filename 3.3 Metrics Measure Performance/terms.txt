@@ -7,6 +7,8 @@ Off-Matrix Diagonal
 
 Precision
 Recall
+F1-Score
+Harmonic Mean
 
 ROC AUC
 Ranndom Model
@@ -16,3 +18,5 @@ Sum of Squares
 R-Squared
 
 Distribution of Error
+
+Hamming Loss

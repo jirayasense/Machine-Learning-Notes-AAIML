@@ -56,7 +56,9 @@ _________________________
 
        REMEMBER :- Cos-Sim is less impacted than Euc-Dist When dimen incr, 
        				\
-                     & So Text-processing like task uses Cos-Sim rather than Euc-Distance
+                  & So Text-processing like task uses Cos-Sim rather than Euc-Distance
+                    \
+                     Eg => Word2Vec, Bag of Words, TfIdf
 
       (# Sparsity & Density Aspect)
     * Sparse & Dense & Curse of Dimen :
@@ -65,7 +67,6 @@ _________________________
 
        high dimen & dense  -> impact of dimen is high
                     sparse -> impact of dimen is lower comparatively
-
 
        Sparse :- not-uniform/random spread of data in the sparse dimension
 
@@ -80,12 +81,12 @@ _________________________
         -> As dimen incr, Overfitting also incr  (This can be proved easily in Linear Regrssion)
 
         Soln :- 1. Use Forward Feature Selection - (It is much classification oriented)
-                2. Dimen reducn     - (It do not use class label & its not much classificatin oriented)
+                2. Dimen reducn - (It do not use class label & its not much classificatin oriented)
 
-    Alternative Soln for KNN :
+    Alternative Soln for KNN : (in High dimension Space)
     ----
-     -> Cos-Sim instead of Euc-Dist
-     -> Sparse Matrix Repr than Dense Repr
+     1) Cos-Sim instead of Euc-Dist
+     2) Sparse Matrix Repr than Dense Repr
 
 
 * Bias - Variance TradeOff :
@@ -98,7 +99,8 @@ _________________________
 
    * Generalization Error : (Bias)^2 + Variance + Irreducible Error
         \
-         It can be decomposed into 3 terms 1) Bias
+         It can be decomposed into 3 terms 
+                             1) Bias
           								   2) Variance 
           								   3) Irreducible Error
 
@@ -168,7 +170,7 @@ _________________________
   * KNN & Bias-Variance :
    ------------------
     As K incr, Bias incr slightly & 
-               Varince decr drastically
+               Variance decr drastically
 
     Thus as bias affected slightly so Bias term is squared in decomposition of generalization err
 

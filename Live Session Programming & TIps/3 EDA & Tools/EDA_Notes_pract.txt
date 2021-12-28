@@ -1,0 +1,30 @@
+* EDA
+  ---
+
+  -> Outliers can messup any models
+
+  Que to ask & ans :
+
+    Probability & Stats :
+       1) #pts & #dimen
+       2) mean, meadian, std-dev, percentile, IQR
+       3) Distributions & skewness
+       4) Correlations
+       5) Hypothesis Testing
+
+  -> Always looks at the raw data & dont look at the aggregated data
+
+  Classification Data :- if imbalanced
+  Regression Data :- if Skewness
+
+  Categorical Features :- distribution
+  Real Valued
+
+  missing val & 
+  Outliers
+
+  => The more overlap the worse that feature would be 
+
+  When Overlap -> Apply log, sqrt, ...
+
+  - Binning features using DT

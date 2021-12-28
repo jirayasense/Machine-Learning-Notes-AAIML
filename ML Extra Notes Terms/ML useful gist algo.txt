@@ -8,9 +8,7 @@
    
    Sparsity & Density of Data
 
-
  -> Instead of term derivative we can use term gradient or grad
-
 
  -> Basic Way to approach & solve problem :
 
@@ -22,8 +20,16 @@
         Use technique such as GD or SGD
      5) Use Langrange muliplier if required
 
-
 * Variance :=
     Model changes a lot with slight change in Training Data
 
   Model Err := bias^2 + variance
+
+=> Business Problem vs ML problem
+
+=> New feature to be included for Model Consideration should be Such That its get correlated with the 
+   error (from model that was trained with that new feature inclusion)
+
+=> When you have high dimension data, linear Models performs very well
+
+=> Randomm Vectors are used in LSH in KNN

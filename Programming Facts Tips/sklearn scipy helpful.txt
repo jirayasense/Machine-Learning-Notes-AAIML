@@ -6,4 +6,19 @@ sklearn
   - TfidfVectorizer()   // Tfidf
 
   - grid_search
+
+  - Normalizer()   // Encoding a numerical Features
+
+  - metrics - {roc_curve, auc, hammming_loss}
+
+  - OneVsRestClassifier()   // multi-class & multi-label algo
+
+
+scipy  
+  
+  - signal.find_peaks()    // find peaks elements in array
+
+  - hstack     // sparse.hstack
+
+  - randint    // stats.randint
   

@@ -27,3 +27,20 @@ Python
 * string :
   ----
    -> Ascii and Unicode
+
+
+---------
+Advance
+
+* deque :
+  -----
+   - Stack, 
+
+* heapq :
+  ----
+   - Priority Queue
+   - top k elements (MIMP)
+
+* bisect :
+  ----
+   - binary search based impl

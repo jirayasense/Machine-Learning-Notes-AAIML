@@ -1,0 +1,15 @@
+Topics needs revisit
+
+-> Calibration
+
+-> T Distribution
+
+-> KDE Kernel Density Estimation
+
+-> Distance of Poinnt from a Plane ?? Why divide by norm of a vector ??
+
+-> HyperParameter Tuning
+
+=> Pandas.read_hdf  !! // to read data from .h5 file extennsion
+
+-> KS-Test (P-val)

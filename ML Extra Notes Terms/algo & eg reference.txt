@@ -9,7 +9,19 @@
 
 * Cascading Model :- Credit Card Fraudelent, Cancer Detection
 
-	
+* Graph Models :- FB Graph Model (Mutual Friends & Friends Recommendation)
+
+* A|B testing :- Medical | Drugs | Medicine old & new 
+                 Amazon Buy Button Color
+
+* Hypothesis Testing | Estimate :- Election Votes | Height of Gender in Country
+
+* Confidence Interval instead Poit estimate best application eg :- CTR (Search & ads display)
+
+* Clustering :- Customer Segmentation
+
+* Recommendation System :- Movie Review
+
 ------------------
 
 -> Geometrically Interpretation means :

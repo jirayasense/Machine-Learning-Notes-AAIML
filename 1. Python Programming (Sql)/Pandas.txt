@@ -1,5 +1,9 @@
 Pandas 
 
+ref : https://pbpython.com/pandas-qcut-cut.html
+
+-------
+
 *-> 
    xlrd, a package use to read xls file (i.e excel file)
    openpyxl, a package to store data into excel file
@@ -19,7 +23,7 @@ Pandas
 * Indexing (Numerical)  <-** (Mimp)
 
 => iloc - by row number
-   loc  - by index number
+   loc  - by whatever index for row is there
 
    loc[:3]   // slicing
 
@@ -43,12 +47,33 @@ Pandas
 
 * pd.merge( , on="", type="")   // equi to join() in sql 
 
+* pd.date_range()  // - {periods, freq}
+
+* df.describe()  // summary
+
+* df.sample()   //
 
 ------
 EXTRA
 
  df.sort_values()   //sort by column name
    .drop_duplicates()
+
+Series :-  isin()   // boolean array for each elem of s1 in s2 or not
+           
+           .str.findall() // string methods
+
+           .value_counts()  // Counter in python
+
+Q) pandas read csv file in chunks :
+   
+   -> chunksize param in read_csv() method
+
+
+* Pandas & Binning :
+  -----------
+   qcut & cut 
+
 
 
 

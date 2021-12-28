@@ -1,0 +1,19 @@
+numpy stack tips
+
+1) plotting the Histogram with percentag on each bar with diff color 
+     \
+      ref ;- Case Study 6 - EDA - class distribution 
+
+
+2) Confusion Matrix
+     
+     ref :- Case Study 6 - ML models - using byte files only :Random Model
+            name :- plot_confusion_matrix()
+
+
+3) Merge 2 Sparse Matrices :- scipy
+
+
+4) Binning :
+   -----
+    -> Do binning of numerical features when majority of feaatures are categorical

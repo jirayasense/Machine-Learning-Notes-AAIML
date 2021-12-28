@@ -54,3 +54,8 @@ KNN :- K nearest Neighbours
        -> KNN is good if you known otherwise KNN is not good choice
        -> Or if Distance/Similarity Matrix is given then its good to choose KNN
 
+* K-Fold CV ??
+  
+  -> So that maximum data can participate in Training Phase
+
+     - It combines Train & CV data into single Phase of Traaining & prepare CV data internally

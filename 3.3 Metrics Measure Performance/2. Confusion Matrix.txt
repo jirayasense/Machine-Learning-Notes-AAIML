@@ -6,7 +6,6 @@ Topics : { Confusion matrix, precision, recall, F1-Score }
 
 -> Every Model has some error
 
-
 --------
  Terms
 
@@ -59,7 +58,7 @@ Topics : { Confusion matrix, precision, recall, F1-Score }
         Eg for Cancer :- TPR be High & 
                          FNR be extremely low
 
-                         (i.e AIM : Don't miss a cancerous patient)
+                  (i.e AIM : Don't miss a cancerous patient)
 
 
 * Precision & Recall & F1-Score : (+ve class)
@@ -98,6 +97,17 @@ Topics : { Confusion matrix, precision, recall, F1-Score }
 
       -> hard to interpret (than precision & recall)
 
+      F1 score is computed as Harmonic Mean of Precision & Recall
 
+
+___________________
+
+* Precision Matrix :
+  ---
+   - Column sum up to your prediction
+     &
+     each col val denotes the share of actual belonging to original class
+
+   - Ideal Precisionn Matrix :- Diagonal to be 1
 
 

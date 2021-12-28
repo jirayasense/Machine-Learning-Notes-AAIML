@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=1o0yd6eMmA0
 - grad can be used for derivative term
 
 -> We can approximate residual with pseudo-residual in Boosting process
+Why?
 => Thus approximating the residual with pseudo-residuals we can optimize our problem for any loss func
 _______________
 

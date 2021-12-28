@@ -29,11 +29,12 @@ TIP :- For Simplification You can assume plane passes through an Origin so b = 0
     ------
      - Update Step
 
-
 * Collinear Features :
   -------------
    representing 1 feature as a linear combination of another feature
 
+* Causation vs Correlation :
+  -------------
 
 * f(Xi) for both :
   ----------------
@@ -50,6 +51,9 @@ TIP :- For Simplification You can assume plane passes through an Origin so b = 0
  
 -> Note : Unit vector & Basis Vector are different
 
+=> We say that 2 lines L1 & L2 are almost similar if :-
+     - both are almost overlapping
+     - cosine dist between them is less
 __________
 
 * Optimization Problem :
@@ -78,3 +82,19 @@ __________
 
 * Partial Derivative vs Grad :
   -----
+
+* Steepest Descent :
+  -----
+   - same as gradient descent but here it focus on Function instead of a Variable
+
+* Randomization :
+  ----- 
+   - Random vectors are used in KNN algo via LSH (Locality sensative Hashing)
+
+* Cross Product :
+  ----
+
+* Monte Carlo Simulation 
+  ----
+
+* Hidden Markov Models 

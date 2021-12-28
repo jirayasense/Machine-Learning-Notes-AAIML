@@ -38,3 +38,23 @@ Let say ratios :-
 
 
 * Convex Polygon : Polygon where all points lie on or inside that polygon
+   ------
+     \
+      -> Convex Hull Idea & Concept
+
+
+* tangent :
+  ------
+   -> Tangent helps us to find the slope of function at particular instance 
+
+
+* Distance of Origin from Plane ??
+  --------
+   Plane : W^T*X + b = 0
+   
+   -> b // W
+
+
+* Jaccard Distance :
+  --------
+   -> helps to analyse how 2 sets are similar to each other 

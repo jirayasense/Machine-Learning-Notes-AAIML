@@ -70,7 +70,7 @@ Naive Bayes 2.txt
 
 * Naive Bayes & Multi-Class Classification :
   --------------------
-   -> It's desingn such that it can inherently do multi class classification
+   -> It's design such that it can inherently do multi class classification
 
    -> binary is special case i.e when we have 2 classes
 

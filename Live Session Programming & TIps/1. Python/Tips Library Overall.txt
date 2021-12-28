@@ -1,0 +1,30 @@
+Tips Library Overall
+
+* To get the info about Cores & Processor of System (MAC)
+   -> !system_profiler SPHardwareDataType
+
+
+* multiprocessing
+    \
+     Process, Queue
+     shared_memory
+     Pool
+
+* threading
+    \
+     Thread
+
+* joblib 
+    \
+     Memory
+     Parallel
+     delayed
+
+
+* gunicorn
+
+* flask
+
+* numpy 
+    \
+     linalg

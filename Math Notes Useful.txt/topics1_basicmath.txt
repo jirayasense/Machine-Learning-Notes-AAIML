@@ -5,8 +5,10 @@ topics
 
 - Two Circle Intersection
 - AUC & Integration   (using trapezoid | Monte Carlo)
-- Monte Carlo Approaches
+- Monte Carlo Approaches (Randomization related)
 - Approximation using Polygon
+
+- Causation & Correlation
 
 -> Area of Circle using Trapezoid Rule
 
@@ -21,3 +23,12 @@ topics
 - Linear & Quadratic Eqn
 
 - Partial Derivative & Grad
+
+- Harmonic Mean (F1-Score)
+
+- Jaccard Distance
+  Otsuha Ochiai Coefficient
+
+  Katz Centrality
+  EigenVector Centrality
+  PageRanks

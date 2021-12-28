@@ -19,6 +19,7 @@ ________________________________________________
 
 3) To remove tags from text document :- use bs4.BeautifulSoup() with lxml as parser
 
+4) To get byte file size :- os.stat()
 _________________________________________________
 
 numpy + ML modules
@@ -35,3 +36,5 @@ numpy + ML modules
    As Log is Monotonic & does not change the Order of a numbers
 
 => Whenever you have categorical features, You can consider missing val as one other category ie (NAN)
+
+=> To compute SIFT features :- use openCV python library

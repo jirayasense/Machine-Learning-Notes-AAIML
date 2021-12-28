@@ -23,3 +23,7 @@ terms
 - Principal Diagonal & Off-Matrix Diagonal
 
 - Joint Probability model 
+
+- Pseudo Random number generator
+
+- Penalized Terms
