@@ -51,9 +51,9 @@ Tips :-
 
 * Convert matrix to flattend array :- m.A1   // m is matrix obj
 
+* Get the Idea about dupolicated in Series  :- duplicated()
 
-
-
+* To find correlation between 2 Columns :- df.corr()
 
 
 ------------------------

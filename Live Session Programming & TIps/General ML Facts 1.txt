@@ -10,14 +10,15 @@ Mathematcis Fact :
 
  -> Rate of Convergence -> How fast we're going towards x
 
-  
+ -> As dimensionality increases -> it's easy to seperate data linearly
 
 
 Tips :-
 ----
  :- How to test optima, integral, derivative, ... functions you implemented manually ???
      -> For known function i.e( function output val known for input x) find & verify for such inputs.
-
+ 
+ => As CDF increases, probability of such pt decreases
 
 * New Topics :
 -----
@@ -25,3 +26,6 @@ Tips :-
 - AutoML :
   ----- 
    - For the task of Architecture Search
+
+
+  

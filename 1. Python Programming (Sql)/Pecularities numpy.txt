@@ -18,6 +18,8 @@ Tip -> `%timeit {expr}`   //can be used in Jupyter NB to calculate avg times
 
 => linear algebra :- np.linalg
 
+=> get bytes consumed by the numpy array :- .nbytes
+
 ------------------------------------------
 
 
@@ -191,3 +193,5 @@ Tip -> `%timeit {expr}`   //can be used in Jupyter NB to calculate avg times
 
 
   np.linalg.norm() // linear algebra
+
+  np.flatnonzero()

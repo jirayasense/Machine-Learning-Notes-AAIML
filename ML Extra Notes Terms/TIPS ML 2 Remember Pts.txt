@@ -81,3 +81,34 @@ Imp Concepts :- Projection / Distance / Dot Product / Angular Similarity
 
 => Normalization or Standardization needs to be performed before CV but after SPlit
    inorder to avoid Data Leakage Problem !!
+
+[Dimen Reduction]
+=> Do perform Normalization/Standardization of data before doing PCA (ie Eigen Val Decomposition)
+
+=> We must always add Regularization in Optimization to avoid Overfitting
+
+=> Elastic Net :
+   ----
+    L1 + l2 regularization :- 
+
+    If you provide more weight to L1 regularization :- it will result in Sparse Matrices in case of NMF (Matrix Factorization)
+
+* Inverted Indices :
+  ------------
+   -> It's most efficient DS when it comes to search
+   -  So google, or any other company that have searching facility will be probably using Innverted Indexes underhood someway
+
+* Multiple Models Evaluation | Try & Explore :
+  --------
+   TIP :- When you do try with multiple models its imp to check which Feature are imp for particular Models (ie Feature Importance is helpful)
+
+* [Imp of HyperParam & #Features]
+   -> If more features are taken into consideration & Hyper-Param Tuning is not done well
+      then More Feature Model may not show significant result compare to Less-Featured Models
+
+* [Dimen & Lr Reg]
+  Number of Hyper-Planes that you can draw in higher dimensions increases exponentially
+
+ => Whole concept of Euc-Dist Starts breaking Down When Dimensionality is High
+
+* RF :- Random Forest works well on Tabular Data

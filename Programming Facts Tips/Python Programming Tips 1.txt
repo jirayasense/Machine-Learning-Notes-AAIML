@@ -20,6 +20,12 @@ ________________________________________________
 3) To remove tags from text document :- use bs4.BeautifulSoup() with lxml as parser
 
 4) To get byte file size :- os.stat()
+
+5) Most Frequent items in List :- Counter() data structure
+
+6) To get all subfolders :- os.listdir()
+
+7) To remove folder & all its content :- shutil.rmtree()
 _________________________________________________
 
 numpy + ML modules
@@ -38,3 +44,7 @@ numpy + ML modules
 => Whenever you have categorical features, You can consider missing val as one other category ie (NAN)
 
 => To compute SIFT features :- use openCV python library
+
+* Pickleing :
+  -------
+   Create a Binary Stuffs from Python Objects

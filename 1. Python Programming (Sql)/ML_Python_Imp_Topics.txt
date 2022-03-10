@@ -11,5 +11,5 @@
 
 * scipy :
   ----
-   finnd_peaks()
+   find_peaks()
    

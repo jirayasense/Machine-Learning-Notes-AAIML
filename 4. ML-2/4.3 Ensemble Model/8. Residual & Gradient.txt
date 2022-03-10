@@ -31,7 +31,7 @@ _______________
   Thus L(yi, F_k(x)) = error
   
 (1) For regression :- Square of Err term ie pow (Yi - Fk(x), 2)
------
+  -----
   -1 * grad(L w.r.t F_k(x)) is proportional to error   // can be easily obtained by derivative = 0
 
   - Thus (-ve) of grad() is called as pseudo-residual or proxy to an error or residual

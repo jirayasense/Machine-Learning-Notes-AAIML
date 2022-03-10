@@ -6,8 +6,6 @@
  - simple moving average  (SMA)
  - weighted Moving average (WMA)
  - Exponential Weighted moving Average (EWMA)
-
-
  ______________
 
  2 types of Features :

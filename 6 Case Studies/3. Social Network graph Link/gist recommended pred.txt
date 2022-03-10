@@ -3,11 +3,9 @@ gist recommended pred
 --------
 intermediate files (temporary files) jupyter NB :- EDA-Basic Stats
 
-
 -------
 
 CRUX :- Featurization for Graph Data
-
 
 * Pure Graph based Edge/Link Predictinon
 
@@ -24,6 +22,12 @@ The Big challange is : Featurization Technique !!
 
 => Data provides possess only info abt edges present i.e all labels 1
    So we need to create data pts for label 0 to make Balanced Dataset
+
+
+* Cold Start Problem :
+  --------
+   - There are some data (vertices ) in Test data for which I've no information regards in Train data
+     at all
 
 * Pre-computation : (Preparing the Dataset)
   -------

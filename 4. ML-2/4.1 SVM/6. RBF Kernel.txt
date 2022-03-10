@@ -41,7 +41,7 @@ RBF is most popular & General Purpose SVM kernel
 
    In KNN, store all the K pts
 
-      RBF :- only SVS - alpha_i  (those alpha_i > 0 only)
+      RBF :- only SVS -> alpha_i  (those alpha_i > 0 only)
 
    Often #SVS << n
 

@@ -32,4 +32,9 @@
 
 => When you have high dimension data, linear Models performs very well
 
-=> Randomm Vectors are used in LSH in KNN
+=> Random Vectors are used in LSH in KNN
+
+=> Matrix Factorization is very general idea in Mathematics & can be used at many places in ML
+
+* Bias-Term :
+  

@@ -5,6 +5,9 @@ gist.txt
 
   DBScan :
   ----
+   - DBScan was developed by Database & DataMining Community so that RangeQueries can 
+     be highly optimized inside Database & can be used effectively
+     
    2 hyper-params :- Min-Pts, Epsilon
 
      Min- Pts :- decide the dense or sparse regions

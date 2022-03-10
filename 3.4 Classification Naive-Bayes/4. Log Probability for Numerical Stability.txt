@@ -37,8 +37,8 @@
 
 - Workaround :
   ----
-   Instead of using the probability directly, Use Log of probability
-   -> Instead of operating on small vals, Its better to operate on Log Values
+     Instead of using the probability directly, Use Log of probability
+     -> Instead of operating on small vals, Its better to operate on Log Values
 
    => Log are much stables
 

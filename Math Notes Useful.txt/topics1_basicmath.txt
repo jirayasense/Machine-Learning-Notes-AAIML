@@ -32,3 +32,12 @@ topics
   Katz Centrality
   EigenVector Centrality
   PageRanks
+
+- Matrix Factorizations | Matrix Decomposition
+
+- Convex Optimization Problem
+
+- Shrunkage pearson Correlation Coef 
+
+- IID (Independennt & Identical Distribution)  // A probability concept
+- MLE (Maximum Likelihood Estimation)  // A Probability Concept

@@ -114,7 +114,7 @@ Text-Preprocessing :
        Eg tasty, tastes, taste, tasteful  :- taste
           beauty, beautiful  :- beauty
 
-* Lemmitization :
+* Lemitization :
   ------
    -> all about breaking a sent into a words
    -> It's based on different langugaes & their contexts

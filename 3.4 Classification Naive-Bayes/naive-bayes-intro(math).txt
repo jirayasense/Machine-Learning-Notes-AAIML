@@ -67,6 +67,8 @@ intro
 
   AlSO NoTE :- 
     denominator term P(X) we are not calculating as its common in all so we can skip
+       \
+         it is just a normalizer
 
 
 

@@ -28,3 +28,6 @@ Q4) Why for Very High Dimen Features, Linear Model are preferred ??
      Hyper-plane can easily seperate points 
 
      So Linear Model like Linear Reg & Logistic Reg are preferred
+
+
+Q5) Why do Normalization/Standardization prior to Dimen-Reduction ??

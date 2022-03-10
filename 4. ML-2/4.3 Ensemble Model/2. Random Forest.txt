@@ -2,6 +2,7 @@
 
 - Randomization is key idea in RF to reduce variance
 
+- OOB score
 __________
 
 
@@ -53,7 +54,9 @@ __________
 
     :- Mi -> Di
        Dn-Di -> oob samples = CV dataset for Mi
-
+   
+   OOB Score :
+   ---------
     - out of bag score (oob score) 
 
 (gIST)

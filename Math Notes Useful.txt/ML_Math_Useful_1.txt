@@ -29,12 +29,23 @@ TIP :- For Simplification You can assume plane passes through an Origin so b = 0
     ------
      - Update Step
 
+  => Equality Constraints are easy to move into equation using langragian multiplier
+
 * Collinear Features :
   -------------
    representing 1 feature as a linear combination of another feature
 
 * Causation vs Correlation :
   -------------
+
+
+* Covariance :
+  ---------
+   - tells you how 2 variables vary together
+
+* Correlation :
+  ------
+   - tells you how 2 variables differ w.r.t each other
 
 * f(Xi) for both :
   ----------------
@@ -54,6 +65,8 @@ TIP :- For Simplification You can assume plane passes through an Origin so b = 0
 => We say that 2 lines L1 & L2 are almost similar if :-
      - both are almost overlapping
      - cosine dist between them is less
+
+
 __________
 
 * Optimization Problem :
@@ -66,6 +79,8 @@ __________
    - Lagrange Multiplier
    - Eigen Value & Eigen Vectors
    - Steepest Ddescent
+
+   - Convex Optimization (Gradient Descent | Stochastic Gradient Descent)
 
 => At both minima & maxima the slope becomes 0
 
@@ -98,3 +113,15 @@ __________
   ----
 
 * Hidden Markov Models 
+
+* Matrix Factorizations :
+  -----
+   -Eigen Decomposition
+
+* Frobenius Norm :
+  -------
+   X - Matrix :- ||X||^2    // sum each element of matrix after squaring it
+
+* Cosine Similarity & Dot Product :
+  -------
+   Think geometrically. Cosine similarity only cares about angle difference, while dot product cares about angle and magnitude. If you normalize your data to have the same magnitude, the two are indistinguishable. Sometimes it is desirable to ignore the magnitude, hence cosine similarity is nice, but if magnitude plays a role, dot product would be better as a similarity measure. Note that neither of them is a "distance metric"

@@ -14,3 +14,5 @@ ML Python Programing Tips 2
 
 
 => slmultilearn only uses dense matrix & not sparse matrix
+
+=! Always do Sanity Checks

@@ -209,7 +209,7 @@ Q) why not use abs(y-f(x)) instead of (y-f(x))^2
 
      -> Regularizer is forcing Weights W to be small 
          &
-         So thus It will tried to face small noise/err inn real-world data more appropriately
+         So thus It will tried to face small noise/err in real-world data more appropriately
           \
           ie While training assume that there is some err in real-world data and don't fit model specifically to loss-term as (it will also account the error which may inherit along with)
           \

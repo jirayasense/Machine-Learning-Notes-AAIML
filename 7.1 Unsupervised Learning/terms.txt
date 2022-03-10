@@ -17,6 +17,12 @@ terms
 
 - K-means ++
 
+- K-mediods
+
+- Agglomerative & Divisive
+
 - proportional probability
+
+- DBScan
 
 - range query

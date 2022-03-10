@@ -94,6 +94,8 @@ Tips :-
 
 * Glove :
   -----
+   -> Its kind of technique to get Word Vector
+   
    Global Vectors
 
    - Alternative technique for Word2Vec from spacy moudle/library
@@ -107,3 +109,11 @@ Tips :-
 * Average W2V or Glove :
   ------
    Simply divide the result from Word2vec or Glove by total number of Words Counts
+
+
+-------
+
+- Simulated Data & Regular Data 
+   - Do distribution analaysis for both & check how it varys
+   
+   Eg Simulated Image & Normal Image

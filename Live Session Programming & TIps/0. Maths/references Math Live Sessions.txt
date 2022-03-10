@@ -5,3 +5,9 @@ references Math Live Sessions
 
 - (Probability & Stats 1)
 https://drive.google.com/file/d/1dS-kf0DNVT6VLhDiVYQ6bo6XWwrT0SnW/view
+
+- (Probability & Stats 2)
+https://colab.research.google.com/drive/1BfqcTvn-kyNajsDw6VDeUhAlk4N1g4Nq
+
+- (Probability & Stats 3)
+https://colab.research.google.com/drive/1BfqcTvn-kyNajsDw6VDeUhAlk4N1g4Nq

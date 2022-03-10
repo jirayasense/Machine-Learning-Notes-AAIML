@@ -57,7 +57,6 @@ ________________
 
 * Variance & Bootstraping :
   ---------------
-
   -> If we make slight change in train data ie D_train
      \
       then because we have employed Sampling technique, All the Models will not get impacted

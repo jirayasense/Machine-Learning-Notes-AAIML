@@ -153,3 +153,8 @@ PCA - want to find direction s.t maximum info is retained
                        = & try to pick those features first which vary most
 
 
+Q Why we are taking then Covariance in PCA ??
+->
+   because we want to find the top directions s.t. variance of original data is preserved as maximally as possible
+
+   & To know how particular point in d dimen vary in diff direction altogether we need to take help of CoVariance Matrix as its intend for same

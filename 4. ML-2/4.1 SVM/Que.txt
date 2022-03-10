@@ -19,3 +19,10 @@ Q) How is SVM related to Logistic Reg ?
  
  -> Log-Reg : Feature Engineering Explicitly
     SVM  : Feature Engineerig implicilty via Kernel-Trick
+
+
+-----
+
+Q) SVM Regressor vs Classifier ??
+
+Q) SVM Primmal to Dual Form (MAth Way ) ??

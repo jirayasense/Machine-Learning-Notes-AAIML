@@ -1,4 +1,5 @@
 dimensionality reduction 
+---------------------
 
 -> visualize data in very high-dimen
 
@@ -45,7 +46,7 @@ dimensionality reduction
 
    Column Standardization :
    ----
-    -> Here transform s.t. mean = 0 & std-dev = 1
+    -> Here transform s.t. mean = 0 & std-dev = 1    // (mean centering & variance scaling)
 
     You can relate Column Standardization with Standard Normal Variate (Z)
        \
@@ -67,3 +68,8 @@ dimensionality reduction
                2) cov(x,y) = cov(y,x) //symmetric
 
     => Covariance matrix is Square Symmetric Matrix (by property)
+
+
+----
+----
+(Que) Why we do Standardization/Normalization before PCA ??

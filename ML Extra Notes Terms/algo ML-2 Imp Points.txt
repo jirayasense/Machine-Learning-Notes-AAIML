@@ -20,6 +20,9 @@ Train - Test Split :
   ----
    -> Is Gaussian naive bayes
 
+* Kernelized-Logistic Regression :
+  ------
+
 * Convex Hull for SVM : 
 
 * SVM :- 
@@ -51,6 +54,10 @@ Train - Test Split :
    -> Similar concept to GD, where functions are optimized instead of variable
    - Eg pseudo-residual
 
+  Stochastic Gradient Descent :
+  ------
+   -> It's a batch gradient Descent
+
 => Linear Model have tendency towards High Bias Problem
 
 => Response Coding is 1 of technique available in case of Multi Class Classification
@@ -61,6 +68,7 @@ Train - Test Split :
    - Its often performed via GridsearchCV or RandomSearchCV
    - It involves trying out diff param value for Hyper-Parameters
 
+=> We must always add Regularization in Optimization to avoid Overfitting
 
 * (REMEMBRANCE)----
 
@@ -91,3 +99,46 @@ Train - Test Split :
 -> Sampling with Replacement & Without Replacement have some implications with Ennsemble methods
    ie Bagginng & BootStrapping
       
+=> Cosine Similarity is often well suited for sparse vectorss
+
+* Solving Optimization Problem (Loss Func) :
+  ----------
+   1) SGD  (Stochastic Gradient Descent)
+   2) MF   (Matrix Factorization)
+   3) ALS  (Alternating Least Squares)
+
+* Cold Start Problem :
+  -------------
+   -> If new pts are found in test that never been seen in train data
+
+=> L1 regularizations creates sparsity
+
+
+* Kernel Logic :
+  -----
+   -Focus on 2 things :- 
+      1. Distance preservance (just like TSNE)
+      2. Random Projection (Internnally)
+
+   [Intution] =>
+   
+   - First project pts from d -> d` space (where d` >> d)  
+         // doing this way may allow Non-linear -> Linear Seperation possibly
+         // Kernel Func used K(xi, xj)
+     thenn
+     Project this pt from d` -> d`` (S.t. d`` < d`)
+     Here it should project s.t. K(xi, xj) is almost or maximially preserved !
+
+   Kernel Approximation trick :
+   ----
+    -> I can get smaller dimension (keeping the Kernel Distance (ie K(xi, xj) as much retained as possible))
+        & this smaller dimension d`` is as much close to d as its possible
+
+    -> End Goal :
+         -> Find such dimension d`` s.t
+             - distance in kernel space (d`) is preserved as well
+             - & new space d`` is close to original space ie d  (as much as possible)
+
+    => Thus Kernel Approx is kinda or similar or analogous in idea to TSNE
+         - as it try to preserve the distance (betweenn pairwise points)
+         - also they use concepts like Random Projections internally

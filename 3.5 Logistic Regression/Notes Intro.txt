@@ -86,7 +86,7 @@ Binary can be {0, 1} or {-1, 1}
    -> Thus Objective :- find maximal W (ie W*) in turn such a plane that maximize the eqn Yi * d_i
 
 
-
+    also optimization involves updation for intercept term b as well
 
 
 

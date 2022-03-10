@@ -1,3 +1,4 @@
 Good References Articles
 
 [Integral basics] https://www.mathcs.emory.edu/~cheung/Courses/170/Syllabus/07/rectangle-method.html
+

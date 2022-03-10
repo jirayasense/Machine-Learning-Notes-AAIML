@@ -17,7 +17,7 @@ In sklearn :
 
 --------
 
-libsvm
+libsvm    // best library for Support Vector Machine
 
 * sklearn.svm 
            \

@@ -13,3 +13,11 @@ https://towardsdatascience.com/4-simple-tips-for-plotting-multiple-graphs-in-pyt
 
   plt.xticks()
      .yticks()
+
+
+
+------------------
+* extra 
+
+
+- plt.text(x, y, 'text')              //Show text at coordinate 

@@ -69,8 +69,9 @@ _________________
 
   Loss Function :- 
    ------
-    function that will provide +1 : on incorrect classification 
-    						   0  : on correct classification
+    function that will provide 
+          +1 : on incorrect classification 
+    			0  : on correct classification
 
   goal :- given data pts, minimze the Loss-function
 

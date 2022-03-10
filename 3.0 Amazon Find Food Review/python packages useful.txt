@@ -23,7 +23,7 @@ sklearn
   \ 
    feature_extraction.text
 
-   CountVectorizer()   // for BOW text -> Vector 
+   CountVectorizer()   // for BOW text -> Vector   {params : }
      \ 
       fit_transform()
                        { params : tokenize }

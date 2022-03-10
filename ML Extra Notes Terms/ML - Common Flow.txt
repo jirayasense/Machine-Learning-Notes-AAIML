@@ -5,7 +5,21 @@ ML Common Flow
       Encoding | NLP | Normalizer | Standardizer | log
 
    Categorical Feature - Encodings
+                          \
+                           One Hot Encoding
+                           dummy_values
+                           CountVectorizer  (Vector for text)
+
    Numerical Features - Conversions
+   							\
+   							 Scaling
+   							  \
+   							   Standardization
+   							   Normalization 
+   							   MinMaxScaler
+
+   	Note :- Normalization(norm='l1') = MinMaxScaler
+
    Text Features - BOW | w2v | Glove | TFIDF
 
 Q) WHy we are doing Scaling or Normalizing on Numerical features ??

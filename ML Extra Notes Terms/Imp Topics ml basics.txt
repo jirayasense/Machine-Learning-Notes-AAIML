@@ -42,3 +42,12 @@ Imp Concepts :-
  - Response Coding
 
  - Random Vectors | Randomization
+
+ - Matrix Factorization
+
+ - Optimization | Regularization
+   Regularizationn term + Bias Term + Mean-Term
+
+ - SvD | Truncated SVD
+
+ - Kernalized-Logistic Regression

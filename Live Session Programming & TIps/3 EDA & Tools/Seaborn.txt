@@ -50,18 +50,18 @@ Seaborn
 
 
 1) Scatter Plot 
-
+   -----
    sns.scatterplot() - {x, y, hue, size, sizes}
 
 
 2) Line Plot :  // Plots Tube Plots 
-
+   ----
     -> Tube Plot :- get idea about Variability  around Line Plot ie Tube
     
        Line with Tube (Mean & 95% Confidence Interval - Gives Idea abt Variability of Observations)
 
 3) Dist Plot (Distribution Plot)
-    
+   ------
    => kdeplot :- takes histogram & smooth it & shapes it
        \
         bandwidth i.e - { bw }
@@ -78,7 +78,7 @@ Seaborn
     -> Scatter + distribution
 
 
-5) Contpur Plots :
+5) Contour Plots :
    ---
     In Contour Plots 
       -> Points at Center are having high density & thus those are in a large numbers

@@ -2,3 +2,12 @@ terms
 
 - Raw Data
 - ETL
+
+- Platform as a Service 
+
+- Dynos
+- Docker
+
+- Slog
+
+- SandBox

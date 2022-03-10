@@ -7,3 +7,5 @@ scipy.misc.ascent()   // already immage inbuilt in scipy
 
 
 PrettyTable
+
+sklearn

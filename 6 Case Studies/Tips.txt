@@ -10,7 +10,6 @@ Tips
 
      .p files are used // pascal source code files can be used to store computed results
 
-
 => Mean F1-Score (Micro Avg F1-Score) for multi-Label classification problem
 
 => sqlite is most used database 

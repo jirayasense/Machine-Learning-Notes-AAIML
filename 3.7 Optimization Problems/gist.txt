@@ -16,4 +16,8 @@ gist
    -> Batch Size = K
 
    
+------
 
+REMEMBER
+
+=> Equality Constraints are easy to move into equation using langragian multiplier

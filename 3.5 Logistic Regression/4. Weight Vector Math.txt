@@ -7,7 +7,7 @@
 
 * Weight Vector :
   ------------
-   -> The optimum W* we find via Optimizationn Problem is called Weight Vector
+   -> The optimum W* we find via Optimizationn Problem is called Weight Vector (Feature Vector)
 
       W is a d-dimen data pt
 

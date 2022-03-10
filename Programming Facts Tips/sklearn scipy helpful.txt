@@ -13,6 +13,9 @@ sklearn
 
   - OneVsRestClassifier()   // multi-class & multi-label algo
 
+  - LogisticRegression()
+  - SGDClassifier()
+
 
 scipy  
   
@@ -22,3 +25,4 @@ scipy
 
   - randint    // stats.randint
   
+  - special.expit()  // for Logistic Sigmoid

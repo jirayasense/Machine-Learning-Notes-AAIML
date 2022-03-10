@@ -15,6 +15,8 @@ gist SVM
 
 => Feature Transformation is partially replaced by finding the right/appropriate Kernel
 
+-> The best library for SVM is libsvm
+
 ------------
 
 Hyper Params :- { C, sigma, epsilon }
@@ -97,6 +99,8 @@ Kernel Function :- equivalent to Similarity Function
 
 -> Run Time Complexity of RBF SVM is better than Logistic-Reg as the RBF only accounts Support 
    Vectors SVs for K() calculation while inference
+
+     K() := Kernel Func Calculations
 
 -> Impact of Outliers in SVM is very little as the SVs are the one that matter most
 

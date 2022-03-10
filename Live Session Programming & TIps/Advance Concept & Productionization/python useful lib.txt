@@ -1,0 +1,6 @@
+python useful lib
+
+- statsmodel -> plot_acf            // for plotting auto correlation factor of Wave
+  pandas    -> autocorrelation_plot 
+
+  statsmodel -> arima_model - ARIMA 

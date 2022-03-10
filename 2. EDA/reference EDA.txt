@@ -10,6 +10,11 @@ reference
 
 [KS Test] https://colab.research.google.com/drive/1IGKj7OVZ_S4vNEMBEuVQNoniJT_UHQE8?usp=drive_open
 
+[EDA TIPS Basics Steps]
+https://drive.google.com/file/d/1PeMVoFgzvJ8oWbCVT-6Chjay0xlnVN5x/view
+
+[BootStrap Sampling]
+
 ---------
 (Extra)
 (Articles)
@@ -29,6 +34,8 @@ https://www.statisticshowto.com/probability-and-statistics/percentiles-rank-rang
 [Binning]
 https://pbpython.com/pandas-qcut-cut.html
 
+[MultiNomial Distributed Data]
+https://www.statisticshowto.com/multinomial-distribution/`
 
 ---------
 Study

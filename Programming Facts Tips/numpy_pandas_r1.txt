@@ -23,3 +23,6 @@ dask : to load chunks of data from dataframe into RAM
 
 
 sklearn
+
+  metrics.pairwise.pairwise_distances
+  metrics.classification_report

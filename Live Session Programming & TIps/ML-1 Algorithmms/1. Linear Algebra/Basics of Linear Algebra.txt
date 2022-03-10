@@ -46,7 +46,7 @@ ref :  https://colab.research.google.com/drive/1u702voTlK7dj7GRFXyGQtdq-LBSmcLkG
   --------
    -> Element Wise Product (Hadammard Product)
 
-   - Image Blurring UseCase (via Kernel)
+   - Image Blurring UseCase (via Kernel)   // kernel is a way to featurize your features
    	  -> via 2D Covolution ie applying kernel on the image-ascent
 
    - edge detection is also Convolution UseCase

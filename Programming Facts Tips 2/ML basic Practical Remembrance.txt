@@ -1,0 +1,19 @@
+ML basic Practical Remembrance
+
+
+=> Whilst doinng programming with Colab + Google Drive :
+    - Do store your intermediaate result as pickle files on Google Drive (as Backup) in case if Colab dies you won't loose your code & foundings.
+
+* Feature Transform Preprocessinng
+
+  Categorical :- One Hot Encoding
+                 get_dummies    // alternative to one hot encoding
+                 
+                 CountVectorizer   // Convert data-point into numerical array in simple 
+
+
+  Numerical :- Standardization
+               Normalization | MinMaxScaler
+
+               MinMaxScalar = Normalizationn with l1-norm
+

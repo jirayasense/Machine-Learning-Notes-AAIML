@@ -14,3 +14,6 @@ https://www.analyticsvidhya.com/blog/2017/10/svm-skilltest/
 
 [diff between Linear SVC & kernel="linear"]
 https://stackoverflow.com/questions/45384185/what-is-the-difference-between-linearsvc-and-svckernel-linear/45390526
+
+[In depth Param Tuning SVC]
+https://medium.com/all-things-ai/in-depth-parameter-tuning-for-svc-758215394769

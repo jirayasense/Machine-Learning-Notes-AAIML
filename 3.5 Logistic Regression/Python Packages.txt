@@ -20,3 +20,5 @@ Most Imp param of LogisticRegression :-
   	 linear_model.LogisticRegression 
   	                 \
   	                  param :- {penalty }
+
+  	             .SGDClassifier

@@ -24,9 +24,17 @@ multiprocessing
     \
      Manager
 
+gensim.models.word2vec
+                \
+                 Word2Vec()
+                 KeyedVectors
 
 -----
 
 fuzzywuzzy
+
+PIL    // For Image
+
+Ipython.display
 
 

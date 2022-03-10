@@ -55,6 +55,8 @@ gist
    - Agglomerative  :- group/merge
    - Divisive       :- divide/split
 
+   -> Problem i.e High Time & Space Complexity
+
 
 * Density Based Clustering :
   ------
@@ -67,11 +69,11 @@ gist
      Epsilon  :- help to find the density of point 
 
    Points :- Core Point, Border Point, Noise Point
-
    other ideas :- Density edge, Density Connection Point
 
    DBScan Algo : uses above ideas & 2 hyper-param
+        \
+         - main task is range-queries 
 
-
-* Range Query :
-  ----
+   Range Query :- range is something defined by Hyper-Sphere
+   

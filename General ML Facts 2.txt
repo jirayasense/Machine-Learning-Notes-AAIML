@@ -12,3 +12,5 @@ General ML Facts 2
    different websites in early 1990's -> yahoo & now -> Google Search Engine
 
 -> Cross Validations is more trustworthy than the domain knowledge
+
+=> Domain Knowledge based Validation is imp in ML overall

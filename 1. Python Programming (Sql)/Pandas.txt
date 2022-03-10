@@ -43,6 +43,8 @@ ref : https://pbpython.com/pandas-qcut-cut.html
    -> indices also shift in relative/according groups  (i.e indices remains intact)
         (row num starts with 1 for each new dataframe)
 
+  unstack()
+
 * pd.concat()
 
 * pd.merge( , on="", type="")   // equi to join() in sql 
@@ -53,17 +55,33 @@ ref : https://pbpython.com/pandas-qcut-cut.html
 
 * df.sample()   //
 
+* df.apply()
+    .applymap()
+
 ------
 EXTRA
 
  df.sort_values()   //sort by column name
    .drop_duplicates()
 
+   .duplicated()    // return only duplicated items
+
 Series :-  isin()   // boolean array for each elem of s1 in s2 or not
            
            .str.findall() // string methods
 
-           .value_counts()  // Counter in python
+           .value_counts()  // Counter in pythons
+           .describe()
+           .unique()
+           .map()
+
+
+* df.corr()   // correlation between features
+
+
+
+
+NOTE :- describe() gives count = #rows where data is present (ie not null)
 
 Q) pandas read csv file in chunks :
    
@@ -75,6 +93,19 @@ Q) pandas read csv file in chunks :
    qcut & cut 
 
 
+* pandas apply & map :
+  ------
+    apply() :-  works on a row / column basis of a DataFrame (based on the axis=0 or 1) 
+    applymap() :- works element-wise on a DataFrame
+    map() :-  works element-wise on a Series.
+
+
+* Pandas Group & Value_Counts & Unstack:
+  -----
+   -> You can use unstack() after value_counts() to view the aggregated val in 
+      tabular form
+
+   -> Then you can use fillna() to fill missing val for aggregated fun col val
 
 
 

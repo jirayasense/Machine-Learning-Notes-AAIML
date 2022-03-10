@@ -58,4 +58,16 @@ High Throughput
 
 Temporal Nature of Data
 
-Approximationn Algo (For hard Problemn)
+Approximation Algo (For hard Problemn)
+
+Matrix Factorization | Eigen Value Decomposition
+
+Bias Term | Mean term | Regularization term
+
+Randomized controls Trials | A/B testing | Bucket-Testings
+
+Weighted Eucledian Distance
+
+Spatial-Property (Spatial-Coherence)
+
+Fast NN Search

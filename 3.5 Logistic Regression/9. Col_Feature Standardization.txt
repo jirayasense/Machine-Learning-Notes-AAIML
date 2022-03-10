@@ -19,3 +19,8 @@ Xij = Xij - mean / std_dev
    -> Hence we standardize fetaures
 
 => Col/Feature Standardization is also called as mean-centering & scaling
+
+
+* Normalization :
+  ----
+   -> You can also consider normalization in alternative to Standardization

@@ -17,6 +17,10 @@ ________________________
  -> This algo depends on assumption i.e pts are mostly linearly seperable
 
  -> the algo crux lies in distance of pts from plane (ie decision surface)
+    &
+    Finding the Plane/Surface that seperates two
+                    \
+                     You need to Find a Feature Vector ie Normal to Plane
 
  => The Logistic Reg math lies around 3 things
      1) sign_distances
@@ -37,6 +41,9 @@ ________________________
  * Sigmoid :
    ------
     -> Helps to get some rid of Outliers in Logistic Regression
+    -> Helps to convert real val (ie Signed Distance) -> Probability
+
+    -> Thus Sigmoid Func is used whilst Inference as well (along with Training)
 
  -> Sigmoid(distance) gives us probability abt decision i.e +ve or -ve
     Sigmoid(sign_distance) gives about accuracy of our decision for (+1 & -1 classes)
@@ -52,6 +59,12 @@ ________________________
 
 -> Also the formulation of optimization problem vary slighlty between geometrically & probabilistic 
    approach
+
+* REMEMBER : 
+  ----
+   Sign Distance is only used whilst Traininng Model (inorder to decide correct Weight Vector)
+
+   For test data we have to predict the sign (ie Yi) so at that moment there is no concept of Signed Distance
 
 * Regularization :
   -----------
@@ -92,4 +105,18 @@ Thus min(loss-term + regularized-term) is goal
     - feature transformation
 
 
+---------
+
+* Loss Func Representation :
+  ---------
+   2 Ways :
+
+     1) Geometric :- Sum (1 + exp(-yi*Wi*Xi))    // Here Yi can be {-1, 1}
+
+     2) Probabilistic :- Sum ( Yi(logPi) - (1-Yi)(log(1-Pi)))  // here Yi can be {0, 1}
+
+
+* Significance of Sigmoid Func in Logisitc Reg :
+  ----
+   -> It helps to achieve what minimization of Log-Loss Func in Probabilistic Interpretation does, but with Geometrical StandPoint of View
 

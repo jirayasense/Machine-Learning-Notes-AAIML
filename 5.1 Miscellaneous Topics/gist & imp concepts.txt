@@ -6,3 +6,10 @@ gist & imp concepts
 => Productionizing Model (realtime) happens at Large Scale
     \
      woth high-throughput & low-latency requirements
+
+**IMP-------
+[A/B test] :
+=> The true test of your Model is not on Train or Test Set 
+   Its actually via A/B testing
+
+   If doesnt work => not creating business impact

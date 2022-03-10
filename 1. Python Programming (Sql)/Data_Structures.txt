@@ -28,7 +28,6 @@ Python
   ----
    -> Ascii and Unicode
 
-
 ---------
 Advance
 
@@ -44,3 +43,13 @@ Advance
 * bisect :
   ----
    - binary search based impl
+
+* Inverted Indices :
+  ------
+   - used in search facility impl
+
+* frozenset
+
+* Counter
+
+* KD Tree : 

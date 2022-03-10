@@ -2,7 +2,7 @@ Naive Bayes 2.txt
 
 => Training Phase is often called Learning Phase
 
-=> Fundamenntal Assumptions : Conditional Independence
+=> Fundamental Assumptions : Conditional Independence
 
 ---------------------
 
@@ -101,7 +101,7 @@ Naive Bayes 2.txt
      feature importance is good (Eg Medical)
 
      Run-time complexity - low
-     Training time complexity - low
+     trainingaining time complexity - low
      Space Complexity - low
 
   -> NB is all abt Counting 

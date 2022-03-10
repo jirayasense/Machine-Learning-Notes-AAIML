@@ -5,5 +5,4 @@ Math Notes (Linera algebra)
    - Slope-Intercept Form
    - 
 
-
-
+* In statistics you need to make assumptionns to move further in derivations

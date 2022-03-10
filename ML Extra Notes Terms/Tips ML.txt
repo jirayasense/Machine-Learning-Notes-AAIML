@@ -65,4 +65,7 @@ Tips ML
 
 => Linear Model have tendency towards High Bias Problem
 
--> Cross Validations is more trustworthy than the domain knowledge
+-> Cross Validations is more trustworthy than the domain knowledge  
+
+[*IMP*]
+FACT :- Mostly in E-Commerce the distribution is Power-Law Distribution

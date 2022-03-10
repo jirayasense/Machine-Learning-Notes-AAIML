@@ -13,3 +13,10 @@ scipy   // esp for sparse matrix, stats, etc...
 
 numba
 theano
+
+PIL    // Image
+
+
+Ipython.display
+
+openCV   // For Images

@@ -20,7 +20,7 @@
 
 * Clustering :- Customer Segmentation
 
-* Recommendation System :- Movie Review
+* Recommendation System :- Movie Review, 
 
 ------------------
 

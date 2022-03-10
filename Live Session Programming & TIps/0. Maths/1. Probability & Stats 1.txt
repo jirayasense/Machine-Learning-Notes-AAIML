@@ -49,8 +49,6 @@ Data :- BlackFriday Sales Data
    (ie Point Estimate or Range estimate)
 
 
-
-
 * A/B testing :
   ----
    Change the color of Buy Button & Improvement in Sales 
@@ -115,15 +113,16 @@ Data :- BlackFriday Sales Data
 
 * Bucket Test :
   -------
-   slowly inncrease the sample size in case of p-val & Hypothesis Testing
+   slowly increase the sample size in case of p-val & Hypothesis Testing
    and
    also in case of A/B testing
 
-TIP :- If you are rejecting NULL hypothesis then keep increasing the sample size unti you 
+TIP :- If you are rejecting NULL hypothesis then keep increasing the sample size until you 
        reach some reasonable conclusion
        &
        conclusion of all sample size you tested must be same (in case of rejection)
 
 * KS-test :
   -------
+   -> uses K-Distrb unnderhood
 

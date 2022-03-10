@@ -10,7 +10,8 @@ classification notes
 
    We determine Hyper-Param using CV
 
-
  => Hinge Loss has small problem i.e at Hinge its not differentiable (i.e at Zi=1 probably)
 
 
+
+* RF :- Random Forest works well on Tabular Data

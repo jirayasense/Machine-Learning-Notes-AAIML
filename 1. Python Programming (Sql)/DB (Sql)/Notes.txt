@@ -91,6 +91,8 @@ Terminologies
 => aggregate-func : perform some operation on set of rows & return aggregated values
 
 => Alias : another name for column produce by aggregated fun
+           
+        -> We can use alias just to refer same thing in further part of Query
 
 => Join : help us to combine data that are splitted among multiple tables
     
@@ -143,7 +145,6 @@ Terminologies
     -> properly maintained by DB Admin whilst being used by diff engineers with diff access
     -> Admin controls those premissions
 
-
     2 basic Commands -> { GRANT, REVOKE }
 
     Database creator can create role (alike admin)
@@ -152,8 +153,10 @@ Terminologies
 
 
 
+-----------------
 
-    
+* Temporary Tables 
+  ------------
 
 
 

@@ -1,6 +1,10 @@
 
 Topics : {L1-Regularizer, Elastic-Net}
 
+ref
+[Why L1 Norm & Sparse Vector]
+https://stats.stackexchange.com/questions/45643/why-l1-norm-for-sparse-models
+
 -----
 
 -> Regularization is used to avoid 
@@ -51,7 +55,8 @@ Q) Why L1 creates Sparsity in W as Compare to L2 ??
    -> 2 hyper param thus
 
    => Such a scene where You have 2 hyper-param in Log-reg is known as Elastic-Net form 
-
+   
+   NOTE :- If you want more sparsity than increaste the weight of L1-Norm multiplier in Elastic net
 
 
            

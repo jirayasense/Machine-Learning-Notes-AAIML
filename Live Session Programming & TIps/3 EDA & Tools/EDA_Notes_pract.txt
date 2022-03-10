@@ -1,6 +1,10 @@
+[EDA TIPS Basics Steps]
+https://drive.google.com/file/d/1PeMVoFgzvJ8oWbCVT-6Chjay0xlnVN5x/view
+
+--------------
+
 * EDA
   ---
-
   -> Outliers can messup any models
 
   Que to ask & ans :

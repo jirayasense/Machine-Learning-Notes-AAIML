@@ -37,7 +37,7 @@ NOTE :- simple linear model like Log-Reg or Lr-reg is also a high bias & low var
    -> both have some kinda similarity 
 
       in Lr-Reg :- variable & weights 
-         GBDT   :- funnction & gamma
+         GBDT   :- function & gamma
 
 * Sparse GBDT :
   --------
