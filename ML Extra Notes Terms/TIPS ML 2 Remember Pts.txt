@@ -111,4 +111,8 @@ Imp Concepts :- Projection / Distance / Dot Product / Angular Similarity
 
  => Whole concept of Euc-Dist Starts breaking Down When Dimensionality is High
 
+----
 * RF :- Random Forest works well on Tabular Data
+-----
+[BOOSTING]
+=> Typically Your Boosting Base Model perform Well on Tabular Data

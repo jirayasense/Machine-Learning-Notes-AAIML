@@ -29,6 +29,8 @@ gensim.models.word2vec
                  Word2Vec()
                  KeyedVectors
 
+np_utils
+
 -----
 
 fuzzywuzzy
@@ -36,5 +38,12 @@ fuzzywuzzy
 PIL    // For Image
 
 Ipython.display
+
+altair  // plotting
+
+opencv  // cv2
+  \
+   imdecode()
+
 
 

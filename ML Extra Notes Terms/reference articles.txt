@@ -12,6 +12,9 @@ kaggle.com/category/winnners-interviews/
 [Correlation Between Categorical & Numerical Variable]
 https://medium.com/@outside2SDs/an-overview-of-correlation-measures-between-categorical-and-continuous-variables-4c7f85610365
 
+[Sigmoid Fn Explaination]
+Ronny Restrepo :- http://ronny.rest/blog/post_2017_08_10_sigmoid/
+
 ---------
 mine 
 

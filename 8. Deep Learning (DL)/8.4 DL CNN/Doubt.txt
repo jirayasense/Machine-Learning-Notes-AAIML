@@ -1,0 +1,12 @@
+Doubt
+
+Q1) Derivative of Max-Pooling
+
+    What if some cell value changes more rapidly than other adjacent cell in same grp
+    then do we need to change derivative update Logic in-between (ie 1 or 0) in case of maxPooling ??
+
+    Que Ref Video :- 
+       Sec 4.7 CNN training: Optimization, (time: 6:46 PM)
+
+
+

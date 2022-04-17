@@ -1,0 +1,9 @@
+Doubt
+
+1) Auto Enncoder & Dimen Reduction
+
+   -> At the end if we are having same dimension in output as input, then what is 
+      dimensionality reduction done or achieved ??
+
+   Is it that we need to Consider the Hidden layer for the above consideration ??
+   -> IF yes then in case of MLP with multiple hidden layers, which one to pick as reduction layer consideration ??	

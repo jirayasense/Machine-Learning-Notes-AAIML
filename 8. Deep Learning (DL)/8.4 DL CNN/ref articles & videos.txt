@@ -1,0 +1,17 @@
+ref articles & videos
+-----
+
+CNN (Visual)
+
+- (Visual Processing) https://www.youtube.com/watch?v=v20-E_2bT2c
+- (Hubel Research) https://en.wikipedia.org/wiki/David_H._Hubel#Research
+- (Perception Lec) http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/what-where/what-where.html
+- (Visual Layer Img) https://www.frontiersin.org/files/Articles/34845/fpsyg-04-00124-HTML/image_m/fpsyg-04-00124-g001.jpg
+
+
+* Connvolutionn Operation
+- https://en.wikipedia.org/wiki/Sobel_operator
+
+
+* [Derivative of max-pooling]
+- https://www.quora.com/How-are-the-parameters-of-max-pooling-represented-in-the-weights-nodes-of-a-neural-network

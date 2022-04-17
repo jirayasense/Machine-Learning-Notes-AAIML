@@ -1,0 +1,24 @@
+Gist DL
+-------
+
+=> Earlier We do not have advantage of 
+    - Lots of Data
+    - Lots of Computational Power
+
+* REMEMBER :
+  
+- Learning Rate (ie {Eta}) Val is generally smaller --!
+
+
+* Deep NN :
+  ------
+
+[Batch Normalization Signnificance]
+=> If you have Similar Distb among Diff Batch of Input, It will help you to 
+   immprove your Grad|Derivative Term & thus help to Converge Faster
+   &
+   This is underhood idea of Batch Normalization
+
+
+* Cross Entropy :
+   -> Generalization of Log Loss for Multiple Classes in case of Deep NN

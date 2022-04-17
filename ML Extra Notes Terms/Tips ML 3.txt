@@ -35,3 +35,8 @@ Tips ML 3
 [A/B test] :
 => The true test of your Model is not on Train or Test Set 
    Its actually via A/B testing
+
+[Random Model & Bias]
+=> Random model maybe Worst Model in terms of Performance, but it gurantees to be Non-Biased
+
+=> Watching the Distribution og to be predicted Feature you can figure out bias as well

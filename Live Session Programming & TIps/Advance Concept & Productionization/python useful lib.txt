@@ -3,4 +3,10 @@ python useful lib
 - statsmodel -> plot_acf            // for plotting auto correlation factor of Wave
   pandas    -> autocorrelation_plot 
 
-  statsmodel -> arima_model - ARIMA 
+  statsmodel -> arima_model - ARIMA
+
+
+----
+
+- BERT // hugging-face
+  DistilBert 

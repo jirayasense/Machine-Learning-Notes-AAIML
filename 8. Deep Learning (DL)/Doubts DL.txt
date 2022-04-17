@@ -1,0 +1,17 @@
+Doubts DL
+
+1) Internal Covariance Shift & Batch Normalization :
+   ----
+    -> ref : Deep NN (Videos)
+
+   Q) : Does Internal Cov Shift & Batch Norm are concerned only with Mini-Batch SGD for Deep NN
+        or 
+        Thenn what abt Single-Poit GD ??
+
+
+2) Batch Normalization | Input Distb & Larger Learning Rate :
+  -----
+   -> How Does Similar Distribution among Batch in Mini Batch SGD, helps us to 
+      have larger Learning Rate in Update Eqn (esp in case of Batch Normalization Process) ??
+
+   Que Ref :- DL ->  Deep Multi-Layer Perceptron -> 2.5 Batch Normalization

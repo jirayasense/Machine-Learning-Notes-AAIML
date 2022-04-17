@@ -1,0 +1,23 @@
+articles ref
+
+- Sebastian Ruder BLog (Optimizing GGradient Descent)  // [Momentumm + SGD]
+
+- Stochastic Grad + Momentum 
+  (https://towardsdatascience.com/stochastic-gradient-descent-with-momentum-a84097641a5d)
+
+- Overview of Grad Descent Algo
+  https://ruder.io/optimizing-gradient-descent/ 
+
+- Types of Optimizers
+  - https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f
+  - https://www.kdnuggets.com/2020/12/optimization-algorithms-neural-networks.html
+
+- Auto Encoders 
+	http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
+	https://en.wikipedia.org/wiki/Autoencoder
+
+- Word2Vec (**IMP**)
+    https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/
+
+- [Deerivative of max-pooling]
+	https://www.quora.com/How-are-the-parameters-of-max-pooling-represented-in-the-weights-nodes-of-a-neural-network

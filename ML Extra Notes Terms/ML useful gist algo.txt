@@ -37,4 +37,7 @@
 => Matrix Factorization is very general idea in Mathematics & can be used at many places in ML
 
 * Bias-Term :
-  
+  ----
+   -> In case of NN|MLPv :- we have 1 extra inp that performs same role as of constant in linear Function
+
+=> Random model maybe Worst Model in terms of Performance, but it gurantees to be Non-Biased

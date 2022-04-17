@@ -33,3 +33,5 @@ numpy stack tips
 8) Masked Array -> numpy.ma
 
 9) To get classification report :- sklearn.metrics.classification_report
+
+10) To do One Hot Encoding (diff way then Sklearn) => np_utils.to_categorical(X, k)  // k is # categories

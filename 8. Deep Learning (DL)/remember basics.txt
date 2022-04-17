@@ -1,0 +1,26 @@
+remember basics
+----------------
+
+Imp Topics in Modern DL :-
+---
+-> RELU, Batch Normalization, Dropout
+
+_____
+
+=> Data Normalization is Mandatory 
+
+=> Vanishing Gradient becomes Severe in Extreme Cases
+
+
+* Batch vs Epoch ??
+   
+   -> ref : https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch
+
+   batch size :- #samples processed before model is updated
+   Epoch :- Entrire pass through the Train Data
+
+   Eg total data :- 200 samples
+      batch size :- 5
+      total batches :- 40 Batches
+
+      So in each epoch batch considered :- 	40 Batches

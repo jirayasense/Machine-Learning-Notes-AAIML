@@ -4,4 +4,4 @@ libraries useful
 
 - scipy
     \
-     sparse.hstack   // merge 2 sparse matrix
+     sparse.hstack   // merge 2 sparse ma

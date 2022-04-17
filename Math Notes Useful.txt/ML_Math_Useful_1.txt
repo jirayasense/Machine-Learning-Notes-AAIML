@@ -31,6 +31,8 @@ TIP :- For Simplification You can assume plane passes through an Origin so b = 0
 
   => Equality Constraints are easy to move into equation using langragian multiplier
 
+  => the most imp part of any optimmization strategy is the
+
 * Collinear Features :
   -------------
    representing 1 feature as a linear combination of another feature

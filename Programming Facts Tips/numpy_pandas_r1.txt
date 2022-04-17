@@ -26,3 +26,8 @@ sklearn
 
   metrics.pairwise.pairwise_distances
   metrics.classification_report
+
+
+np_utils
+    
+    to_caategorical()  // One Hot Kinda Encoding

@@ -127,4 +127,12 @@ RF - deep DT
 GB - shallow DT
 
 
+______________
+(IMP)
+
+=> Typically Your Boosting Base Model perform Well on Tabular Data
+   (ie like RF & likewise)
+
+
+
 

@@ -1,0 +1,12 @@
+DL NN notes
+
+* Importance of NN or Multi Layered Structure :
+   - Multi Layered Structure is most useful & imp way of addressign complex functions
+
+=> For Back-Propogation Algo, Your Activation Function needs to be Differentiable.
+
+[*IMP*]
+=> You can think MLP as Multi layer generalization of Linear Regression or Logistic Regression 
+
+
+* DropOut for Regularization

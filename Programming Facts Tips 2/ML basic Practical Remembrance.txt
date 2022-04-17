@@ -17,3 +17,7 @@ ML basic Practical Remembrance
 
                MinMaxScalar = Normalizationn with l1-norm
 
+[MetaData & Models]
+=> Every Model will have the MetaData File (ie most probably json file)
+       \
+        that stores the info such as Weight, Featires,...

@@ -26,3 +26,12 @@ terms
 - Online vs Offline Systems (pipeline)
 - QPS (quer per seconds) | performance measure
 - Stateless vs Stateful Training
+
+
+===
+(New Terms To Explore)
+ \
+  - Spidering AI
+
+  - Aadverserial Attacks
+  - Model Quantization

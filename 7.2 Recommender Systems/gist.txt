@@ -109,4 +109,7 @@ gist.txt
 
    -> so if you provide more weight to L1-Regularization in Elastic Net it will provide more sparsity to W & H Matrices of Factors, compare to L2-Regularization
 
-s
+
+___________
+
+* In case of RS :- importance is given more towards :- Recency & Frequency

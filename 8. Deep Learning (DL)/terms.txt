@@ -1,0 +1,8 @@
+terms
+
+- Dropout rate
+- Dead Activation
+
+- Fan-in, Fan-out
+
+- Cross Entropy

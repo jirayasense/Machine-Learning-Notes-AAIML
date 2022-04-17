@@ -142,3 +142,11 @@ Train - Test Split :
     => Thus Kernel Approx is kinda or similar or analogous in idea to TSNE
          - as it try to preserve the distance (betweenn pairwise points)
          - also they use concepts like Random Projections internally
+
+
+[REMEMBER]
+=> Data Normalization is Mandatory (esp in DL|MLP|NN)
+
+* Recommended System :
+   \
+    Recency & Frequency Impact

@@ -1,6 +1,8 @@
 1. WebAPI Python Notes
 ---------
 
+ref : https://drive.google.com/drive/folders/1Dcegfgz4ttmm_jiicePDUmqqCwgPKiMt
+
 Python packages 
 
 - urllib.parse
