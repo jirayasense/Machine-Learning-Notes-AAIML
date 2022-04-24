@@ -6,3 +6,9 @@ terms
 - Fan-in, Fan-out
 
 - Cross Entropy
+
+- LRM (Local Response Normalization)
+
+- Residual Block | Skip Connection
+
+- Bottleneck Layer (1*1 Kernalization trick)

@@ -8,5 +8,19 @@ Q1) Derivative of Max-Pooling
     Que Ref Video :- 
        Sec 4.7 CNN training: Optimization, (time: 6:46 PM)
 
+    Consider Eg :-
+       \
+         1  3                                            0  0
+         2  4    =>  Max-Pooling -> 4  So Derivative ->  0  1
+
+         Now if same above cell after sometime becomes
+
+         2  5
+         4  4    => then Max-Pooling -> 5 
+                    Then according to Derivative Logic (Custom) => 0  0 
+                                                                   0  1
 
 
+    Ans :-
+    ---
+    ref : https://towardsdatascience.com/forward-and-backward-propagation-of-pooling-layers-in-convolutional-neural-networks-11e36d169bec

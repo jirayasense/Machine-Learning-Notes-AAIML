@@ -24,3 +24,11 @@ _____
       total batches :- 40 Batches
 
       So in each epoch batch considered :- 	40 Batches
+
+[Regularization]
+=> regularization removes all useless Weights
+
+=> Initial layers in CNN often deal with the task of detecting the Borders, Common Shapes & Likewise
+   (which is common among all tasks esp when we talk about Images)
+
+=> Keep Small Learning Rates when you FineTune Your Model

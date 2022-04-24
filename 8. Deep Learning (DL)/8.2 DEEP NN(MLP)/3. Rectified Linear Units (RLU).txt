@@ -22,7 +22,8 @@ ____
   -----
    - Today's default activation function for MLP
 
-   f(Z) = max(0,Z)   // Relu Function
+   f(Z) = max(0,Z)   // Relu Function  <--***
+    
 
    => This Relu Function is not differentiable at Zero
 

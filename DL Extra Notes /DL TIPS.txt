@@ -1,3 +1,12 @@
 DL TIPS
 
 => while doing it keras & tensorflow way, you can use Violin Plots to see distribution of Weight among diff Hidden Layers
+
+=> Data Augmentation is esp used for Image Dataset 
+   \
+    used mostly in CNN
+
+=> Initial layers in CNN often deal with the task of detecting the Borders, Common Shapes & Likewise
+   (which is common among all tasks esp when we talk about Images)
+
+=> Keep Small Learning Rates when you FineTune Your Model

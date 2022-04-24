@@ -14,7 +14,7 @@
   ----
    -> When we have deep NN(MLP)
       &
-      We are usign Mini-Batch SGD,
+      We are using Mini-Batch SGD,
       then
       A small change in input may lead to a large change in output layer
 
@@ -23,7 +23,7 @@
   -----
    -> The distribution of data may varys from layer to layer
 
-   - The layer L5 may see more dissimilarity inn batch as compare to layer L2
+   - The layer L5 may see more dissimilarity in batch as compare to layer L2
 
    -> thus distribution of batch progression at each layer varys & this phenomenon is called as Internal Covariance Problem.
 

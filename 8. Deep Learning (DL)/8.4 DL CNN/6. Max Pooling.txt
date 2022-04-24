@@ -3,13 +3,13 @@
 Sec :- 4.6
 
 -------
-
+- Max Pooling
+  Mean Pooling (Sub Sampling)
 
 ------
 
 * Pooling
   ---
-
   - layer you can add to your CNN
   
   INVARIANTS:

@@ -7,7 +7,7 @@
 -------
 GIST
 
-=> Effective Receptive Field becomes imp when you have multi-layered CNN   
+=> Effective Receptive Field becomes imp when you have multi-layered CNN	   
 => Effective Receptive Field is much larger in the Original Image
 
 --------

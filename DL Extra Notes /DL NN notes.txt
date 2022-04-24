@@ -10,3 +10,7 @@ DL NN notes
 
 
 * DropOut for Regularization
+
+* Data Augmentation is esp used for Image Dataset 
+   \
+    used mostly in CNN

@@ -56,7 +56,7 @@ REMEMBER :
 
   -> Thus we can make Max-Pool Layer Derivable (by some custom tweaks)
       |
-      Same way we can achieve for Min-Pool or Avg-Pool as well
+      Same way we can achieve for Mean-Pool or Avg-Pool as well
 
 
 -> Thus both Convolution Layer & Max-Pool Layer can be made derivable
