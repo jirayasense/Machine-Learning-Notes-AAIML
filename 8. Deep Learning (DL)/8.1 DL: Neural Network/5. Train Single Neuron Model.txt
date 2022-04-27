@@ -13,7 +13,7 @@ ______
 
 _______
 
-NOTE :- We will dervie everythin with Linear Regression perspective because mathematics is easy
+NOTE :- We will derive everythings with Linear Regression perspective because mathematics is easy
 
 
 * what does training means in case of Neuron ??

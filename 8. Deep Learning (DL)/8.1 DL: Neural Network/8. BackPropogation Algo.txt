@@ -10,7 +10,7 @@ NOTE
 
 => Back-Propogation works iff Activation Function are Differentiables
 
--> Most hardest part in back-propogation is computing derivatives 
+-> Most hardest part in back-propogation is computeuting derivatives 
 _____
 
 NOTE :-

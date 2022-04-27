@@ -9,5 +9,5 @@ Flatten()
 
 
 
-ref :  (Img Classif)
+ref :  (Img Classif Models 3 Strategies)
 https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
